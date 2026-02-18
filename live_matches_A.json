@@ -1,0 +1,16 @@
+{
+    "updated_at": "2026-02-18 10:48:13 PM",
+    "matches": [
+        {
+            "id": "manual-140658",
+            "platform": "FanCode LIVE",
+            "sport": "Cricket",
+            "title": "LIVE: Captured Match (Testing)",
+            "team_1": "Live",
+            "team_2": "Stream",
+            "url": "https://in-mc-flive.fancode.com/mumbai/140658_english_hls_8dec9cc28f58754_1ta-di_h264/index.m3u8?hdnea=exp=1771434811~acl=/mumbai/140658_english_hls_8dec9cc28f58754_1ta-di_h264/*~id=80643612_401f0395-5bcf-49~data=80643612~hmac=954d0ca861135b098277e0056026a44ec3153396a49c75815ae5cc6cde4dea2f&deviceId=undefined&advertiserId=undefined",
+            "type": "HLS",
+            "is_drm": false
+        }
+    ]
+}
