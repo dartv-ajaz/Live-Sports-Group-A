@@ -1,16 +1,86 @@
 {
-    "updated_at": "2026-02-18 10:48:13 PM",
+    "updated_at": "2026-02-19 12:07:42 AM",
     "matches": [
         {
-            "id": "manual-140658",
+            "id": 130980,
+            "platform": "FanCode LIVE",
+            "sport": "Football",
+            "title": "[LIVE] Match 160",
+            "url": "https://www.fancode.com/video/130980",
+            "type": "HLS",
+            "is_premium": true
+        },
+        {
+            "id": 140065,
+            "platform": "FanCode LIVE",
+            "sport": "Football",
+            "title": "[LIVE] Match 109",
+            "url": "https://www.fancode.com/video/140065",
+            "type": "HLS",
+            "is_premium": true
+        },
+        {
+            "id": 140064,
+            "platform": "FanCode LIVE",
+            "sport": "Football",
+            "title": "[LIVE] Match 110",
+            "url": "https://www.fancode.com/video/140064",
+            "type": "HLS",
+            "is_premium": true
+        },
+        {
+            "id": 140658,
             "platform": "FanCode LIVE",
             "sport": "Cricket",
-            "title": "LIVE: Captured Match (Testing)",
-            "team_1": "Live",
-            "team_2": "Stream",
-            "url": "https://in-mc-flive.fancode.com/mumbai/140658_english_hls_8dec9cc28f58754_1ta-di_h264/index.m3u8?hdnea=exp=1771434811~acl=/mumbai/140658_english_hls_8dec9cc28f58754_1ta-di_h264/*~id=80643612_401f0395-5bcf-49~data=80643612~hmac=954d0ca861135b098277e0056026a44ec3153396a49c75815ae5cc6cde4dea2f&deviceId=undefined&advertiserId=undefined",
+            "title": "[LIVE] Match 1",
+            "url": "https://www.fancode.com/video/140658",
             "type": "HLS",
-            "is_drm": false
+            "is_premium": true
+        },
+        {
+            "id": 140416,
+            "platform": "FanCode LIVE",
+            "sport": "Football",
+            "title": "[LIVE] Match 140416",
+            "url": "https://www.fancode.com/video/140416",
+            "type": "HLS",
+            "is_premium": true
+        },
+        {
+            "id": 140745,
+            "platform": "FanCode LIVE",
+            "sport": "Tennis",
+            "title": "[LIVE] Center Court",
+            "url": "https://www.fancode.com/video/140745",
+            "type": "HLS",
+            "is_premium": true
+        },
+        {
+            "id": 140746,
+            "platform": "FanCode LIVE",
+            "sport": "Tennis",
+            "title": "[LIVE] Grandstand 2",
+            "url": "https://www.fancode.com/video/140746",
+            "type": "HLS",
+            "is_premium": true
+        },
+        {
+            "id": 140210,
+            "platform": "FanCode LIVE",
+            "sport": "Tennis",
+            "title": "[LIVE] World Feed",
+            "url": "https://www.fancode.com/video/140210",
+            "type": "HLS",
+            "is_premium": true
+        },
+        {
+            "id": 140297,
+            "platform": "FanCode LIVE",
+            "sport": "Tennis",
+            "title": "[LIVE] Court A Feed",
+            "url": "https://www.fancode.com/video/140297",
+            "type": "HLS",
+            "is_premium": true
         }
     ]
 }
