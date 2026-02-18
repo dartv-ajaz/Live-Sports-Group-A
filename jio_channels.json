@@ -1,0 +1,20 @@
+{
+    "updated_at": "2026-02-19 12:50:36 AM",
+    "total_channels": 2,
+    "channels": [
+        {
+            "id": "jio-news-1",
+            "name": "Jio News (Demo)",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/News18_India_logo.svg/1200px-News18_India_logo.svg.png",
+            "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+            "group": "News"
+        },
+        {
+            "id": "jio-sports-1",
+            "name": "Jio Sports (Demo)",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Sports18_Logo.svg/1200px-Sports18_Logo.svg.png",
+            "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+            "group": "Sports"
+        }
+    ]
+}
