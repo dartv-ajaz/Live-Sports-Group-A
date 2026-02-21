@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-21 08:26:21 PM",
+    "updated_at": "2026-02-21 09:20:45 PM",
     "channels": [
         {
             "id": "vip-1",
@@ -59,34 +59,20 @@
         },
         {
             "id": "vip-9",
-            "name": "Star Sports 1",
-            "logo": "https://i.imgur.com/9O0jF1m.png",
-            "url": "https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/star-sports-1",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-10",
-            "name": "PTV Sports HD \ud83c\uddf5\ud83c\uddf0",
-            "logo": "https://i.imgur.com/9O0jF1m.png",
-            "url": "https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=92",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-11",
             "name": "PTV Sports HD \ud83c\uddf5\ud83c\uddf0",
             "logo": "https://i.imgur.com/9O0jF1m.png",
             "url": "https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/ptv-sports",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-12",
+            "id": "vip-10",
             "name": "Star Sports 1 HD \ud83c\uddee\ud83c\uddf3",
             "logo": "https://i.imgur.com/9O0jF1m.png",
             "url": "https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=2",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-13",
+            "id": "vip-11",
             "name": "\ud83d\udea8 Willow USA SPORT HD \ud83d\udea8\ud83d\udce1\ud83d\udcfa",
             "logo": "https://i.imgur.com/9O0jF1m.png",
             "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8",
