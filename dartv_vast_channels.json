@@ -1,5 +1,11 @@
 [
     {
+        "name": "&PICTURES HD (1080P)",
+        "url": "http://103.229.254.25:7001/play/a033/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "ABZY MOVIES (480P)",
         "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8",
         "category": "Movies",
@@ -66,6 +72,18 @@
         "status": "active"
     },
     {
+        "name": "COLORS (576P)",
+        "url": "http://103.229.254.25:7001/play/a077/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS BANGLA HD (1080P)",
+        "url": "http://103.229.254.25:7001/play/a0ds/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
         "name": "COLORS BANGLA HD (720P)",
         "url": "https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
         "category": "Indian Drama",
@@ -78,8 +96,26 @@
         "status": "active"
     },
     {
+        "name": "COLORS HD (1080P)",
+        "url": "http://103.229.254.25:7001/play/a0a1/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS INFINITY HD (1080P)",
+        "url": "http://103.229.254.25:7001/play/a0du/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
         "name": "COLORS TAMIL (720P)",
         "url": "http://15.235.144.106:14052",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS TAMIL HD (360P)",
+        "url": "http://198.27.83.207:2550/COLORS_TAMIL_SD/index.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
@@ -105,6 +141,12 @@
         "name": "INDIA NEWS HARYANA (1080P)",
         "url": "https://newsxott.in/hls/indianewsharyana.m3u8",
         "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "JALSHA MOVIES HD (1080P)",
+        "url": "http://103.229.254.25:7001/play/a0dt/index.m3u8",
+        "category": "Movies",
         "status": "active"
     },
     {
@@ -144,8 +186,50 @@
         "status": "active"
     },
     {
+        "name": "SONY SPORTS TEN 2 HD (1080P)",
+        "url": "http://103.229.254.25:7001/play/a02t/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 3 HINDI (576P)",
+        "url": "http://103.229.254.25:7001/play/a09q/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 5 HD (1080P)",
+        "url": "http://103.229.254.25:7001/play/a0dw/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
         "name": "STAR GOLD 2 (576P)",
         "url": "http://161.248.38.40:8000/play/a06z/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD 2 HD (1080P)",
+        "url": "http://103.229.254.25:7001/play/a0d0/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD HD (1080P)",
+        "url": "http://103.229.254.25:7001/play/a0dd/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD HD (480P)",
+        "url": "http://103.99.249.139/stargold/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD SELECT HD (1080P)",
+        "url": "http://103.229.254.25:7001/play/a032/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -153,6 +237,12 @@
         "name": "STAR GOLD THRILLS (576P)",
         "url": "http://161.248.38.40:8000/play/a06v/index.m3u8",
         "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 1 HD (1080P)",
+        "url": "http://103.229.254.25:7001/play/a0a0/index.m3u8",
+        "category": "Sports",
         "status": "active"
     },
     {
@@ -164,6 +254,24 @@
     {
         "name": "STAR SPORTS 1 HINDI HD (1080P)",
         "url": "http://161.248.38.40:8000/play/a06n/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 2 HINDI HD (480P)",
+        "url": "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 2 TAMIL (1080P)",
+        "url": "http://103.229.254.25:7001/play/a0d1/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 2 TAMIL (576P)",
+        "url": "http://103.229.254.25:7001/play/a0dc/index.m3u8",
         "category": "Sports",
         "status": "active"
     },
@@ -198,6 +306,12 @@
         "status": "active"
     },
     {
+        "name": "ZEE CINEMA HD (480P)",
+        "url": "http://103.99.249.139/zeecinema/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "ZEE DELHI NCR HARYANA (720P)",
         "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8",
         "category": "Pakistani Drama",
@@ -216,123 +330,9 @@
         "status": "active"
     },
     {
-        "name": "COLORS TAMIL HD (360P)",
-        "url": "http://198.27.83.207:2550/COLORS_TAMIL_SD/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "ZEE TV HD (1080P)",
         "url": "http://103.229.254.25:7001/play/a0cs/index.m3u8",
         "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "SONY SPORTS TEN 2 HD (1080P)",
-        "url": "http://103.229.254.25:7001/play/a02t/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 2 TAMIL (1080P)",
-        "url": "http://103.229.254.25:7001/play/a0d1/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 2 TAMIL (576P)",
-        "url": "http://103.229.254.25:7001/play/a0dc/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 1 HD (1080P)",
-        "url": "http://103.229.254.25:7001/play/a0a0/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR GOLD SELECT HD (1080P)",
-        "url": "http://103.229.254.25:7001/play/a032/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR GOLD 2 HD (1080P)",
-        "url": "http://103.229.254.25:7001/play/a0d0/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR GOLD HD (1080P)",
-        "url": "http://103.229.254.25:7001/play/a0dd/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "SONY SPORTS TEN 5 HD (1080P)",
-        "url": "http://103.229.254.25:7001/play/a0dw/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "JALSHA MOVIES HD (1080P)",
-        "url": "http://103.229.254.25:7001/play/a0dt/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "COLORS INFINITY HD (1080P)",
-        "url": "http://103.229.254.25:7001/play/a0du/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS HD (1080P)",
-        "url": "http://103.229.254.25:7001/play/a0a1/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS BANGLA HD (1080P)",
-        "url": "http://103.229.254.25:7001/play/a0ds/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS (576P)",
-        "url": "http://103.229.254.25:7001/play/a077/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "&PICTURES HD (1080P)",
-        "url": "http://103.229.254.25:7001/play/a033/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "SONY SPORTS TEN 3 HINDI (576P)",
-        "url": "http://103.229.254.25:7001/play/a09q/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 2 HINDI HD (480P)",
-        "url": "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "ZEE CINEMA HD (480P)",
-        "url": "http://103.99.249.139/zeecinema/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR GOLD HD (480P)",
-        "url": "http://103.99.249.139/stargold/index.m3u8",
-        "category": "Movies",
         "status": "active"
     },
     {
