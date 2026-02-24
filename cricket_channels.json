@@ -1,6 +1,6 @@
 {
-    "updated_at": "2026-02-19 01:04:37 AM",
-    "total_cricket_channels": 9,
+    "updated_at": "2026-02-24 09:24:53 AM",
+    "total_cricket_channels": 10,
     "channels": [
         {
             "name": "Sony Sports Ten 3 Hindi (576p)",
@@ -24,46 +24,53 @@
             "id": "cricket-3"
         },
         {
+            "name": "Star Sports 2 Hindi HD (480p)",
+            "logo": "https://i.imgur.com/kHerF19.png",
+            "group": "Cricket",
+            "url": "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8",
+            "id": "cricket-4"
+        },
+        {
             "name": "Sony Sports Ten 2 HD (1080p)",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png",
             "group": "Cricket",
             "url": "http://103.229.254.25:7001/play/a02t/index.m3u8",
-            "id": "cricket-4"
+            "id": "cricket-5"
         },
         {
             "name": "Sony Sports Ten 5 HD (1080p)",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
             "group": "Cricket",
             "url": "http://103.229.254.25:7001/play/a0dw/index.m3u8",
-            "id": "cricket-5"
+            "id": "cricket-6"
         },
         {
             "name": "Star Sports 1 HD (1080p)",
             "logo": "https://i.imgur.com/E5jjKHI.png",
             "group": "Cricket",
             "url": "http://103.229.254.25:7001/play/a0a0/index.m3u8",
-            "id": "cricket-6"
+            "id": "cricket-7"
         },
         {
             "name": "Star Sports 2 Tamil (1080p)",
             "logo": "https://i.imgur.com/eWPoUxB.png",
             "group": "Cricket",
             "url": "http://103.229.254.25:7001/play/a0d1/index.m3u8",
-            "id": "cricket-7"
+            "id": "cricket-8"
         },
         {
             "name": "Ten Sports Pakistan",
             "logo": "https://i.imgur.com/nnqpYNm.png",
             "group": "Cricket",
             "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
-            "id": "cricket-8"
+            "id": "cricket-9"
         },
         {
             "name": "Willow Sports",
             "logo": "https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png",
             "group": "Cricket",
             "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6972546cc62833833a187f50/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=32de4823-7501-4845-ba26-8699462954dd&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8bdd346b-769f-4962-b3d6-7579caca3658",
-            "id": "cricket-9"
+            "id": "cricket-10"
         }
     ]
 }
