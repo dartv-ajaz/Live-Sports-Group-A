@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-25 08:07:42 PM",
+    "updated_at": "2026-02-25 11:46:49 PM",
     "channels": [
         {
             "id": "vip-1",
@@ -62,62 +62,6 @@
             "name": "Willow Sports",
             "logo": "https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png",
             "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6972546cc62833833a187f50/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=32de4823-7501-4845-ba26-8699462954dd&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8bdd346b-769f-4962-b3d6-7579caca3658",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-10",
-            "name": "Star Sports 1 HD",
-            "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",
-            "url": "http://103.175.73.12:8080/live/66/66_0.m3u8",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-11",
-            "name": "Star Sports 2 HD Hindi",
-            "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg",
-            "url": "http://103.175.73.12:8080/live/83/83_0.m3u8",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-12",
-            "name": "Star Sports 2",
-            "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg",
-            "url": "http://103.175.73.12:8080/live/68/68_0.m3u8",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-13",
-            "name": "Star Sports 3",
-            "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg",
-            "url": "http://103.175.73.12:8080/live/69/69_0.m3u8",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-14",
-            "name": "Star Sports Select 1",
-            "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg",
-            "url": "http://103.175.73.12:8080/live/72/72_0.m3u8",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-15",
-            "name": "Star Sports Select 2",
-            "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg",
-            "url": "http://103.175.73.12:8080/live/73/73_0.m3u8",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-16",
-            "name": "Star Sports Select 2",
-            "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg",
-            "url": "http://103.175.73.12:8080/live/282/282_0.m3u8",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-17",
-            "name": "\ud83d\udea8 Willow USA SPORT HD \ud83d\udea8\ud83d\udce1\ud83d\udcfa",
-            "logo": "https://i.imgur.com/9O0jF1m.png",
-            "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8",
             "group": "VIP Cricket"
         }
     ]
