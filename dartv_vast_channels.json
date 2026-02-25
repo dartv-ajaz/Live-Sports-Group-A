@@ -336,6 +336,78 @@
         "status": "active"
     },
     {
+        "name": "ZEE CINEMA HD (1080P)",
+        "url": "http://103.113.103.202:8001/play/a005/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS SELECT 2 HD (1080P)",
+        "url": "http://103.113.103.202:8001/play/a02q/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS SELECT 1 HD (1080P)",
+        "url": "http://103.113.103.202:8001/play/a02e/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 2 HINDI HD (1080P)",
+        "url": "http://103.113.103.202:8001/play/a028/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD ROMANCE (576P)",
+        "url": "http://103.113.103.202:8001/play/a029/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR MOVIES SELECT HD (1080P)",
+        "url": "http://103.113.103.202:8001/play/a02i/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR MOVIES HD (1080P)",
+        "url": "http://103.113.103.202:8001/play/a02j/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR BHARAT (576P)",
+        "url": "http://103.113.103.202:8001/play/a01z/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "SONY ENTERTAINMENT TELEVISION HD (1080P)",
+        "url": "http://103.113.103.202:8001/play/a02z/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "SONY MAX 2 (576P)",
+        "url": "http://103.113.103.202:8001/play/a002/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "SONY MAX (576P)",
+        "url": "http://103.113.103.202:8001/play/a025/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "ANMOL CINEMA (576P)",
+        "url": "http://103.113.103.202:8001/play/a017/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "FILMAX (576P)",
         "url": "http://163.61.227.29:8000/play/a02o/index.m3u8",
         "category": "Movies",
