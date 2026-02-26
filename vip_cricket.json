@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-26 08:05:19 PM",
+    "updated_at": "2026-02-26 10:39:04 PM",
     "channels": [
         {
             "id": "vip-1",
@@ -62,6 +62,13 @@
             "name": "Willow Sports",
             "logo": "https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png",
             "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6972546cc62833833a187f50/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=32de4823-7501-4845-ba26-8699462954dd&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8bdd346b-769f-4962-b3d6-7579caca3658",
+            "group": "VIP Cricket"
+        },
+        {
+            "id": "vip-10",
+            "name": "Star Sports 1 HD",
+            "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",
+            "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
             "group": "VIP Cricket"
         }
     ]
