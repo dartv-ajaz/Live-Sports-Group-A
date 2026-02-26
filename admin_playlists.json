@@ -1,14 +1,20 @@
 [
   {
-    "name": "🎬 New Hindi Movies",
-    "url": "https://example.com/movies.m3u"
+    "name": "🎬 Hindi ",
+    "url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
   },
   {
-    "name": "⚽ Worldwide Sports",
-    "url": "https://raw.githubusercontent.com/vaathala00/hotstar/refs/heads/main/sports/json/sports.json"
+    "name": "Urdu",
+    "url": "https://iptv-org.github.io/iptv/languages/urd.m3u"
   },
   {
-    "name": "📰 Local Kashmir News",
-    "url": "https://example.com/news.m3u"
+    "name": "📰 Arabic",
+    "url": "https://iptv-org.github.io/iptv/languages/ara.m3u"
+  }
+]
+ },
+  {
+    "name": "📰 English",
+    "url": "https://iptv-org.github.io/iptv/languages/eng.m3u"
   }
 ]
