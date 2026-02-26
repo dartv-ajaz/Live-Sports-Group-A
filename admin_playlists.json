@@ -1,0 +1,14 @@
+[
+  {
+    "name": "🎬 New Hindi Movies",
+    "url": "https://example.com/movies.m3u"
+  },
+  {
+    "name": "⚽ Worldwide Sports",
+    "url": "https://example.com/sports.json"
+  },
+  {
+    "name": "📰 Local Kashmir News",
+    "url": "https://example.com/news.m3u"
+  }
+]
