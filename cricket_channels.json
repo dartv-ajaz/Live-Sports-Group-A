@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-27 04:34:04 AM",
+    "updated_at": "2026-02-27 10:33:44 AM",
     "total_cricket_channels": 12,
     "channels": [
         {
@@ -80,10 +80,10 @@
             "id": "cricket-11"
         },
         {
-            "name": "Willow Sports",
+            "name": "Willow Sports (1080p) [Geo-blocked]",
             "logo": "https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png",
             "group": "Cricket",
-            "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6972546cc62833833a187f50/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=32de4823-7501-4845-ba26-8699462954dd&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8bdd346b-769f-4962-b3d6-7579caca3658",
+            "url": "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8",
             "id": "cricket-12"
         }
     ]
