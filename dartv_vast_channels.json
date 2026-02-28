@@ -264,7 +264,7 @@
         "status": "active"
     },
     {
-        "name": "STAR SPORTS 2 TAMIL (1080P)",
+        "name": "STAR SPORTS 2 TAMIL HD (1080P)",
         "url": "http://103.229.254.25:7001/play/a0d1/index.m3u8",
         "category": "Sports",
         "status": "active"
@@ -404,6 +404,12 @@
     {
         "name": "ANMOL CINEMA (576P)",
         "url": "http://103.113.103.202:8001/play/a017/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U HITZ (576P)",
+        "url": "http://115.42.65.142:9981/stream/channelid/1099703605",
         "category": "Movies",
         "status": "active"
     },
