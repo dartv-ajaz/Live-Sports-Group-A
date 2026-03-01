@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-01 05:11:07 AM",
+    "updated_at": "2026-03-01 10:41:35 AM",
     "channels": [
         {
             "id": "vip-1",
@@ -76,6 +76,13 @@
             "name": "Star Sports 1 HD",
             "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",
             "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
+            "group": "VIP Cricket"
+        },
+        {
+            "id": "vip-12",
+            "name": "\ud83d\udea8 Willow USA SPORT HD \ud83d\udea8\ud83d\udce1\ud83d\udcfa",
+            "logo": "https://i.imgur.com/9O0jF1m.png",
+            "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8",
             "group": "VIP Cricket"
         }
     ]
