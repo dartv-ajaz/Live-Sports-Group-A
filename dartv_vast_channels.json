@@ -456,6 +456,66 @@
         "status": "active"
     },
     {
+        "name": "UDAYA MOVIES (576P)",
+        "url": "http://111.88.78.21:8000/play/a0yy/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "SURYA MOVIES (576P)",
+        "url": "http://111.88.78.21:8000/play/a0y0/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 2 HINDI (576P)",
+        "url": "http://111.88.78.21:8000/play/a0x8/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 1 TELUGU HD (1080P)",
+        "url": "http://111.88.78.21:8000/play/a0vc/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 1 TAMIL HD (1080P)",
+        "url": "http://111.88.78.21:8000/play/a0to/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "SONY MAX HD (1080P)",
+        "url": "http://111.88.78.21:8000/play/a0q1/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "JAYA MAX (576P)",
+        "url": "http://111.88.78.21:8000/play/a0wk/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "GEMINI MOVIES HD (1080P)",
+        "url": "http://111.88.78.21:8000/play/a0zf/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "COLORS GUJARATI CINEMA (576P)",
+        "url": "http://111.88.78.21:8000/play/a0zm/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS BANGLA CINEMA (576P)",
+        "url": "http://111.88.78.21:8000/play/a0zo/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
         "name": "FILMAX (576P)",
         "url": "http://163.61.227.29:8000/play/a02o/index.m3u8",
         "category": "Movies",
