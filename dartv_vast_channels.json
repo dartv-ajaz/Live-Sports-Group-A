@@ -516,6 +516,18 @@
         "status": "active"
     },
     {
+        "name": "MAX MUSIC (1080P)",
+        "url": "https://live.maxtn.in/maxmusic/maxmusic/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "MAX MOVIES (1080P)",
+        "url": "https://live.maxtn.in/maxmovies/maxmovies/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "FILMAX (576P)",
         "url": "http://163.61.227.29:8000/play/a02o/index.m3u8",
         "category": "Movies",
