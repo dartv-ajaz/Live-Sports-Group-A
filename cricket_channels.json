@@ -1,6 +1,6 @@
 {
-    "updated_at": "2026-03-04 05:30:44 AM",
-    "total_cricket_channels": 21,
+    "updated_at": "2026-03-04 10:31:26 AM",
+    "total_cricket_channels": 22,
     "channels": [
         {
             "name": "Sony Sports Ten 3 Hindi (576p)",
@@ -143,11 +143,18 @@
             "id": "cricket-20"
         },
         {
-            "name": "Willow Sports (1080p) [Geo-blocked]",
+            "name": "Unbeaten Sports Channel (1080p)",
+            "logo": "https://i.imgur.com/LmkNt3v.png",
+            "group": "Cricket",
+            "url": "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8",
+            "id": "cricket-21"
+        },
+        {
+            "name": "Willow Sports (1080p)",
             "logo": "https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png",
             "group": "Cricket",
-            "url": "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8",
-            "id": "cricket-21"
+            "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8",
+            "id": "cricket-22"
         }
     ]
 }
