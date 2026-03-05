@@ -1,17 +1,17 @@
 {
-    "updated_at": "2026-03-05 05:30:57 AM",
+    "updated_at": "2026-03-05 10:36:09 AM",
     "total_cricket_channels": 22,
     "channels": [
         {
             "name": "Sony Sports Ten 3 Hindi (576p)",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3/images/LOGO_HD/LOGO_HD_image.png",
+            "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
             "group": "Cricket",
             "url": "http://103.229.254.25:7001/play/a09q/index.m3u8",
             "id": "cricket-1"
         },
         {
             "name": "Sony Sports Ten 3 Hindi HD (1080p)",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3/images/LOGO_HD/LOGO_HD_image.png",
+            "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
             "group": "Cricket",
             "url": "http://116.90.120.128:8000/play/a0jr/index.m3u88",
             "id": "cricket-2"
