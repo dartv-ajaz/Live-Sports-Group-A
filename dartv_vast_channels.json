@@ -522,6 +522,12 @@
         "status": "active"
     },
     {
+        "name": "GOLDMINES 2 (576P)",
+        "url": "https://cdn-2.pishow.tv/live/1460/master.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "FILMAX (576P)",
         "url": "http://163.61.227.29:8000/play/a02o/index.m3u8",
         "category": "Movies",
