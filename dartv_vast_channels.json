@@ -6,6 +6,18 @@
         "status": "active"
     },
     {
+        "name": "&PICTURES (576P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0521/master.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "&PICTURES HD (1080P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0547/master.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "ABZY MOVIES (480P)",
         "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8",
         "category": "Movies",
@@ -24,8 +36,26 @@
         "status": "active"
     },
     {
+        "name": "ANMOL CINEMA (576P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0549/master.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "ANMOL CINEMA 2 (576P)",
         "url": "http://161.248.38.40:8000/play/a07q/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "ANMOL CINEMA 2 (576P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0541/master.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "ASIANET MOVIES (576P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0476/master.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -90,8 +120,44 @@
         "status": "active"
     },
     {
+        "name": "COLORS (576P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0387/master.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS BANGLA (576P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0464/master.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS BANGLA CINEMA (576P)",
+        "url": "http://111.88.78.21:8000/play/a0zo/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS BANGLA CINEMA (576P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0069/master.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
         "name": "COLORS BANGLA HD (1080P)",
         "url": "http://103.229.254.25:7001/play/a0ds/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS BANGLA HD (1080P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0458/master.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS CINEPLEX (576P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0392/master.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
@@ -102,8 +168,56 @@
         "status": "active"
     },
     {
+        "name": "COLORS CINEPLEX BOLLYWOOD (576P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0393/master.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS CINEPLEX HD (1080P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0435/master.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS CINEPLEX SUPERHITS (576P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0394/master.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS GUJARATI (576P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0491/master.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS GUJARATI CINEMA (576P)",
+        "url": "http://111.88.78.21:8000/play/a0zm/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS GUJARATI CINEMA (576P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0492/master.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
         "name": "COLORS HD (1080P)",
         "url": "http://103.229.254.25:7001/play/a0a1/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS HD (1080P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0431/master.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS INFINITY (576P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0402/master.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
@@ -114,8 +228,68 @@
         "status": "active"
     },
     {
+        "name": "COLORS INFINITY HD (1080P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0437/master.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS KANNADA (576P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0482/master.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS KANNADA CINEMA (576P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0485/master.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS KANNADA HD (1080P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0456/master.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS MARATHI (576P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0467/master.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS MARATHI HD (1080P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0454/master.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS RISHTEY ASIA (576P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0323/master.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS SUPER (576P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0484/master.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
         "name": "COLORS TAMIL (720P)",
         "url": "http://15.235.144.106:14052",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS TAMIL (576P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0471/master.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS TAMIL HD (1080P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0459/master.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
@@ -144,6 +318,24 @@
         "status": "active"
     },
     {
+        "name": "GEMINI MOVIES (576P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0586/master.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "GEMINI MOVIES HD (1080P)",
+        "url": "http://111.88.78.21:8000/play/a0zf/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "GOLDMINES 2 (576P)",
+        "url": "https://cdn-2.pishow.tv/live/1460/master.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "INDIA NEWS HARYANA (1080P)",
         "url": "https://newsxott.in/hls/indianewsharyana.m3u8",
         "category": "Pakistani Drama",
@@ -156,14 +348,50 @@
         "status": "active"
     },
     {
+        "name": "JAYA MAX (576P)",
+        "url": "http://111.88.78.21:8000/play/a0wk/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "JAYA MAX (576P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0313/master.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "MAHAA MAX (1080P)",
         "url": "https://d8wpu6ewxtzy0.cloudfront.net/mahaamaxx/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
     {
+        "name": "MAX MOVIES (1080P)",
+        "url": "https://live.maxtn.in/maxmovies/maxmovies/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "MAX MUSIC (1080P)",
+        "url": "https://live.maxtn.in/maxmusic/maxmusic/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "MOVIES NOW + (1080P)",
         "url": "http://116.90.120.128:8000/play/a0i4/index.m3u88",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "MOVIES NOW + (1080P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0112/master.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "MOVIES NOW HD (1080P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0090/master.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -198,6 +426,12 @@
         "status": "active"
     },
     {
+        "name": "SONY ENTERTAINMENT TELEVISION HD (1080P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0379/master.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
         "name": "SONY ENTERTAINMENT TELEVISION HD (720P)",
         "url": "http://217.20.112.199/sethd/index.m3u8",
         "category": "Indian Drama",
@@ -212,6 +446,12 @@
     {
         "name": "SONY MAX 2 (576P)",
         "url": "http://103.113.103.202:8001/play/a002/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "SONY MAX HD (1080P)",
+        "url": "http://111.88.78.21:8000/play/a0q1/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -336,8 +576,26 @@
         "status": "active"
     },
     {
+        "name": "STAR SPORTS 1 TAMIL HD (1080P)",
+        "url": "http://111.88.78.21:8000/play/a0to/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 1 TELUGU HD (1080P)",
+        "url": "http://111.88.78.21:8000/play/a0vc/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
         "name": "STAR SPORTS 2 HD (1080P)",
         "url": "http://103.121.6.5:8000/play/a05u/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 2 HINDI (576P)",
+        "url": "http://111.88.78.21:8000/play/a0x8/index.m3u8",
         "category": "Sports",
         "status": "active"
     },
@@ -381,6 +639,18 @@
         "name": "STAR SPORTS SELECT 2 HD (1080P)",
         "url": "http://103.113.103.202:8001/play/a02q/index.m3u8",
         "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "SURYA MOVIES (576P)",
+        "url": "http://111.88.78.21:8000/play/a0y0/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "UDAYA MOVIES (576P)",
+        "url": "http://111.88.78.21:8000/play/a0yy/index.m3u8",
+        "category": "Movies",
         "status": "active"
     },
     {
@@ -447,84 +717,6 @@
         "name": "ZEE TV HD (1080P)",
         "url": "http://103.229.254.25:7001/play/a0cs/index.m3u8",
         "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "UDAYA MOVIES (576P)",
-        "url": "http://111.88.78.21:8000/play/a0yy/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "SURYA MOVIES (576P)",
-        "url": "http://111.88.78.21:8000/play/a0y0/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 2 HINDI (576P)",
-        "url": "http://111.88.78.21:8000/play/a0x8/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 1 TELUGU HD (1080P)",
-        "url": "http://111.88.78.21:8000/play/a0vc/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 1 TAMIL HD (1080P)",
-        "url": "http://111.88.78.21:8000/play/a0to/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "SONY MAX HD (1080P)",
-        "url": "http://111.88.78.21:8000/play/a0q1/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "JAYA MAX (576P)",
-        "url": "http://111.88.78.21:8000/play/a0wk/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "GEMINI MOVIES HD (1080P)",
-        "url": "http://111.88.78.21:8000/play/a0zf/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "COLORS GUJARATI CINEMA (576P)",
-        "url": "http://111.88.78.21:8000/play/a0zm/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS BANGLA CINEMA (576P)",
-        "url": "http://111.88.78.21:8000/play/a0zo/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "MAX MUSIC (1080P)",
-        "url": "https://live.maxtn.in/maxmusic/maxmusic/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "MAX MOVIES (1080P)",
-        "url": "https://live.maxtn.in/maxmovies/maxmovies/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "GOLDMINES 2 (576P)",
-        "url": "https://cdn-2.pishow.tv/live/1460/master.m3u8",
-        "category": "Movies",
         "status": "active"
     },
     {
