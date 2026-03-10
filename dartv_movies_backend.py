@@ -2,97 +2,70 @@ import requests
 import json
 import re
 
-# TVMaze ki description mein HTML tags hote hain (<p>, <b>), unhein saaf karne ke liye
 def clean_html(raw_html):
-    if not raw_html:
-        return "No description available."
+    if not raw_html: return "No description available."
     cleanr = re.compile('<.*?>')
     return re.sub(cleanr, '', raw_html)
 
-def fetch_unstoppable_vods():
-    print("[*] 🎬 DarTV VOD Engine Started...")
-    print("[*] Connecting to Open TVMaze Database (100% Unblocked)...")
+def fetch_iframe_movies():
+    print("[*] 🎬 DarTV VOD Iframe Engine Started...")
     
-    # Humari pasandeeda searches
-    search_queries = ["marvel", "batman", "avengers", "star wars", "vikings", "matrix", "spider", "superman", "game of thrones"]
+    # Mix of popular Movies and Series
+    search_queries = ["batman", "avengers", "spiderman", "inception", "interstellar", "top gun", "john wick", "matrix"]
     vod_list = []
     seen_ids = set()
     
+    # 🔥 YE HAI ASLI JUGAD: Hum in base URLs ko use karenge movies dhoondhne ke liye
+    # Note: Kuch servers ads dikhate hain, isliye iframe lock zaroori hai
+    embed_base = "https://vidsrc.me/embed/movie?tmdb=" 
+
     for query in search_queries:
-        print(f"[*] Fetching '{query.upper()}' titles...")
-        # TVMaze Open Search API
+        print(f"[*] Searching '{query.upper()}' on Metadata Server...")
+        # Hum TMDB ya TVMaze se pehle ID aur Info nikalenge
         url = f"https://api.tvmaze.com/search/shows?q={query}"
         
         try:
             r = requests.get(url, timeout=10)
             if r.status_code == 200:
                 results = r.json()
-                
-                if not results:
-                    print(f"    [-] No results for {query}")
-                
                 for item in results:
                     show = item.get("show", {})
-                    show_id = show.get("id")
+                    name = show.get("name")
+                    ext_ids = show.get("externals", {})
+                    tmdb_id = ext_ids.get("thetvdb") # Using TVDB/TMDB mapping
                     
-                    # Duplicate rokne ke liye
-                    if not show_id or show_id in seen_ids:
-                        continue
-                    seen_ids.add(show_id)
-                    
-                    title = show.get("name", "Unknown Title")
-                    
-                    # Year (Sirf pehle 4 characters)
-                    premiered = show.get("premiered", "")
-                    year = premiered[:4] if premiered else "N/A"
-                    
-                    # Rating
-                    rating = show.get("rating", {}).get("average")
-                    rating_str = str(rating) if rating else "HD"
-                    
-                    # Genres
-                    genres = show.get("genres", ["Entertainment"])
-                    main_genre = genres[0] if genres else "Action"
-                    
-                    # Clean Description
-                    raw_desc = show.get("summary", "")
-                    desc = clean_html(raw_desc)
-                    if len(desc) > 150:
-                        desc = desc[:147] + "..."
-                        
-                    # HD Poster (Original size)
+                    if not name or name in seen_ids: continue
+                    seen_ids.add(name)
+
+                    # Agar image nahi hai toh skip ya default lagao
                     image_data = show.get("image")
-                    poster = image_data.get("original") if image_data else f"https://ui-avatars.com/api/?name={title}&background=1e2024&color=00b865&size=512"
+                    poster = image_data.get("original") if image_data else f"https://ui-avatars.com/api/?name={name}&background=00b865&color=fff"
+
+                    # 🔥 SMART IFRAME GENERATION
+                    # Yahan hum search query ko embed link mein convert kar rahe hain
+                    # Taake player mein Sultan VIP ki tarah iframe khule
+                    movie_slug = name.lower().replace(" ", "-")
                     
                     vod_list.append({
-                        "id": f"vod-tvm-{show_id}",
-                        "title": title,
-                        "year": year,
-                        "rating": rating_str,
-                        "genre": main_genre,
-                        "description": desc,
+                        "id": f"vod-if-{show.get('id')}",
+                        "title": name,
+                        "year": show.get("premiered", "N/A")[:4],
+                        "rating": str(show.get("rating", {}).get("average", "HD")),
+                        "genre": show.get("genres")[0] if show.get("genres") else "Movie",
+                        "description": clean_html(show.get("summary")),
                         "poster": poster,
                         "backdrop": poster,
-                        # 🔥 MUX TEST HD VIDEO LINK (Isey baad mein apne links se badal lena)
-                        "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-                        "type": "Video"
+                        # 🔥 YE LINK PLAYER MEIN IFRAME KHOLAY GA
+                        "streamUrl": f"https://autoembed.to/movie/{movie_slug}", 
+                        "type": "Iframe" 
                     })
-            else:
-                print(f"    [!] Error Status Code: {r.status_code}")
-                
         except Exception as e:
-            print(f"    [!] Connection Error: {e}")
-            
+            print(f"[!] Error: {e}")
+
     if vod_list:
-        print(f"\n[+] BOOM! 🔥 Total {len(vod_list)} VODs HD Posters ke sath save ho gaye!")
-        
-        # JSON file save karna
         with open("dartv_movies.json", "w", encoding='utf-8') as f:
             json.dump(vod_list, f, indent=4, ensure_ascii=False)
-            
-        print("[🚀 SUCCESS] 'dartv_movies.json' is ready! Kisi ki majaal nahi jo isey rokay!")
-    else:
-        print("\n[!] Data fetch nahi ho saka.")
+        print(f"[🚀 SUCCESS] {len(vod_list)} Iframe Movies ready in 'dartv_movies.json'!")
 
 if __name__ == "__main__":
-    fetch_unstoppable_vods()
+    fetch_iframe_movies()
