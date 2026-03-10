@@ -984,12 +984,6 @@
         "status": "active"
     },
     {
-        "name": "FILMAX (576P)",
-        "url": "http://163.61.227.29:8000/play/a02o/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "MINIMAX (576P) [NOT 24/7]",
         "url": "http://116.90.120.149:8000/play/a01c/index.m3u8",
         "category": "Movies",
