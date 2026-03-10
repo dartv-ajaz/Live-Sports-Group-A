@@ -1,0 +1,18 @@
+[
+  {
+    "name": "🎬 Hindi",
+    "url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
+  },
+  {
+    "name": "Urdu",
+    "url": "https://iptv-org.github.io/iptv/languages/urd.m3u"
+  },
+  {
+    "name": "📰 Arabic",
+    "url": "https://iptv-org.github.io/iptv/languages/ara.m3u"
+  },
+  {
+    "name": "📰 English",
+    "url": "https://iptv-org.github.io/iptv/languages/eng.m3u"
+  }
+]
