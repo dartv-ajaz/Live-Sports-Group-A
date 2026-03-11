@@ -31,12 +31,6 @@
     },
     {
         "name": "ANMOL CINEMA (576P)",
-        "url": "http://103.113.103.202:8001/play/a017/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "ANMOL CINEMA (576P)",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0549/master.m3u8",
         "category": "Movies",
         "status": "active"
@@ -127,12 +121,6 @@
     },
     {
         "name": "COLORS BANGLA CINEMA (576P)",
-        "url": "http://111.88.78.21:8000/play/a0zo/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS BANGLA CINEMA (576P)",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0069/master.m3u8",
         "category": "Indian Drama",
         "status": "active"
@@ -182,12 +170,6 @@
     {
         "name": "COLORS GUJARATI (576P)",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0491/master.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS GUJARATI CINEMA (576P)",
-        "url": "http://111.88.78.21:8000/play/a0zm/index.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
@@ -343,12 +325,6 @@
     },
     {
         "name": "JAYA MAX (576P)",
-        "url": "http://111.88.78.21:8000/play/a0wk/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "JAYA MAX (576P)",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0313/master.m3u8",
         "category": "Movies",
         "status": "active"
@@ -368,12 +344,6 @@
     {
         "name": "MAX MUSIC (1080P)",
         "url": "https://live.maxtn.in/maxmusic/maxmusic/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "MOVIES NOW + (1080P)",
-        "url": "http://116.90.120.128:8000/play/a0i4/index.m3u88",
         "category": "Movies",
         "status": "active"
     },
@@ -415,12 +385,6 @@
     },
     {
         "name": "SONY ENTERTAINMENT TELEVISION HD (1080P)",
-        "url": "http://103.113.103.202:8001/play/a02z/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "SONY ENTERTAINMENT TELEVISION HD (1080P)",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0379/master.m3u8",
         "category": "Indian Drama",
         "status": "active"
@@ -429,18 +393,6 @@
         "name": "SONY ENTERTAINMENT TELEVISION HD (720P)",
         "url": "http://217.20.112.199/sethd/index.m3u8",
         "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "SONY MAX (576P)",
-        "url": "http://103.113.103.202:8001/play/a025/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "SONY MAX 2 (576P)",
-        "url": "http://103.113.103.202:8001/play/a002/index.m3u8",
-        "category": "Movies",
         "status": "active"
     },
     {
@@ -462,21 +414,9 @@
         "status": "active"
     },
     {
-        "name": "SONY SPORTS TEN 3 HINDI HD (1080P)",
-        "url": "http://116.90.120.128:8000/play/a0jr/index.m3u88",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
         "name": "SONY SPORTS TEN 5 HD (1080P)",
         "url": "http://103.229.254.25:7001/play/a0dw/index.m3u8",
         "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR BHARAT (576P)",
-        "url": "http://103.113.103.202:8001/play/a01z/index.m3u8",
-        "category": "Indian Drama",
         "status": "active"
     },
     {
@@ -504,12 +444,6 @@
         "status": "active"
     },
     {
-        "name": "STAR GOLD ROMANCE (576P)",
-        "url": "http://103.113.103.202:8001/play/a029/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "STAR GOLD SELECT HD (1080P)",
         "url": "http://103.229.254.25:7001/play/a032/index.m3u8",
         "category": "Movies",
@@ -522,32 +456,8 @@
         "status": "active"
     },
     {
-        "name": "STAR MOVIES HD (1080P)",
-        "url": "http://103.113.103.202:8001/play/a02j/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR MOVIES SELECT HD (1080P)",
-        "url": "http://103.113.103.202:8001/play/a02i/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "STAR SPORTS 2 HD (1080P)",
         "url": "http://103.121.6.5:8000/play/a05u/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 2 HINDI (576P)",
-        "url": "http://111.88.78.21:8000/play/a0x8/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 2 HINDI HD (1080P)",
-        "url": "http://103.113.103.202:8001/play/a028/index.m3u8",
         "category": "Sports",
         "status": "active"
     },
@@ -572,18 +482,6 @@
     {
         "name": "STAR SPORTS 3 (576P)",
         "url": "http://103.121.6.5:8000/play/a05y/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS SELECT 1 HD (1080P)",
-        "url": "http://103.113.103.202:8001/play/a02e/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS SELECT 2 HD (1080P)",
-        "url": "http://103.113.103.202:8001/play/a02q/index.m3u8",
         "category": "Sports",
         "status": "active"
     },
@@ -618,12 +516,6 @@
         "status": "active"
     },
     {
-        "name": "ZEE CINEMA HD (1080P)",
-        "url": "http://103.113.103.202:8001/play/a005/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "ZEE CINEMA HD (480P)",
         "url": "http://103.99.249.139/zeecinema/index.m3u8",
         "category": "Movies",
@@ -648,7 +540,7 @@
         "status": "active"
     },
     {
-        "name": "B4U MUSIC APAC (1080P)",
+        "name": "B4U MUSIC (1080P)",
         "url": "https://cdn-2.pishow.tv/live/415/master.m3u8",
         "category": "Movies",
         "status": "active"
@@ -984,6 +876,24 @@
         "status": "active"
     },
     {
+        "name": "B4U MOVIES APAC (720P)",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/b4u-movies-apac/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U MUSIC APAC (720P)",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/b4u-music/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "SONY MAX 1 (576P)",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0357/master.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "MINIMAX (576P) [NOT 24/7]",
         "url": "http://116.90.120.149:8000/play/a01c/index.m3u8",
         "category": "Movies",
@@ -993,6 +903,48 @@
         "name": "TEN SPORTS PAKISTAN",
         "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
         "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "ARY ZINDAGI (576P)",
+        "url": "http://115.42.65.142:9981/stream/channelid/1064070262",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "ARY NEWS (576P)",
+        "url": "http://115.42.65.142:9981/stream/channelid/322092446",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "A-PLUS TV (576P)",
+        "url": "http://115.42.65.142:9981/stream/channelid/113328724",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "FILMAX (576P)",
+        "url": "http://103.250.28.74:8000/play/a02o/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "LTN FAMILY (576P)",
+        "url": "http://103.250.28.74:8000/play/a02j/index.m3u8",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "PTV SPORTS (1080P)",
+        "url": "http://103.250.28.74:8000/play/a019/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "SAB TV (1080P)",
+        "url": "http://103.250.28.74:8000/play/a04w/index.m3u8",
+        "category": "Indian Drama",
         "status": "active"
     }
 ]

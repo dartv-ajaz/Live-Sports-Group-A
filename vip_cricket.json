@@ -1,192 +1,178 @@
 {
-    "updated_at": "2026-03-11 05:23:52 AM",
+    "updated_at": "2026-03-11 10:32:49 AM",
     "channels": [
         {
             "id": "vip-1",
+            "name": "PTV Sports (1080p)",
+            "logo": "https://i.imgur.com/CPm6GHA.png",
+            "url": "http://103.250.28.74:8000/play/a019/index.m3u8",
+            "group": "VIP Cricket"
+        },
+        {
+            "id": "vip-2",
             "name": "Star Sports 1 (576p)",
             "logo": "https://i.imgur.com/E5jjKHI.png",
             "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0412/master.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-2",
+            "id": "vip-3",
             "name": "Star Sports 1 HD (1080p)",
             "logo": "https://i.imgur.com/E5jjKHI.png",
             "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0441/master.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-3",
+            "id": "vip-4",
             "name": "Star Sports 1 Hindi (576p)",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png",
             "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0415/master.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-4",
+            "id": "vip-5",
             "name": "Star Sports 1 Hindi HD (1080p)",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png",
             "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0443/master.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-5",
+            "id": "vip-6",
             "name": "Star Sports 1 Kannada (576p)",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_KANNADA/images/LOGO_HD/image.png",
             "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0420/master.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-6",
+            "id": "vip-7",
             "name": "Star Sports 1 Tamil (576p)",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png",
             "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0419/master.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-7",
+            "id": "vip-8",
             "name": "Star Sports 1 Tamil HD (1080p)",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png",
             "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0472/master.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-8",
+            "id": "vip-9",
             "name": "Star Sports 1 Telugu (576p)",
             "logo": "https://i.imgur.com/gK415D7.png",
             "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0421/master.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-9",
+            "id": "vip-10",
             "name": "Star Sports 2 (576p)",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
             "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0413/master.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-10",
+            "id": "vip-11",
             "name": "Star Sports 2 HD (1080p)",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
             "url": "http://103.121.6.5:8000/play/a05u/index.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-11",
+            "id": "vip-12",
             "name": "Star Sports 2 Hindi (576p)",
             "logo": "https://i.imgur.com/kHerF19.png",
-            "url": "http://111.88.78.21:8000/play/a0x8/index.m3u8",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-12",
-            "name": "Star Sports 2 Hindi HD (1080p)",
-            "logo": "https://i.imgur.com/kHerF19.png",
-            "url": "http://103.113.103.202:8001/play/a028/index.m3u8",
+            "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0416/master.m3u8",
             "group": "VIP Cricket"
         },
         {
             "id": "vip-13",
+            "name": "Star Sports 2 Hindi HD (1080p)",
+            "logo": "https://i.imgur.com/kHerF19.png",
+            "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0446/master.m3u8",
+            "group": "VIP Cricket"
+        },
+        {
+            "id": "vip-14",
             "name": "Star Sports 2 Kannada (576p)",
             "logo": "https://i.imgur.com/LHuS2ev.png",
             "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0422/master.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-14",
+            "id": "vip-15",
             "name": "Star Sports 2 Tamil (576p)",
             "logo": "https://i.imgur.com/eWPoUxB.png",
             "url": "http://103.229.254.25:7001/play/a0dc/index.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-15",
+            "id": "vip-16",
             "name": "Star Sports 2 Tamil HD (1080p)",
             "logo": "https://i.imgur.com/eWPoUxB.png",
             "url": "http://103.229.254.25:7001/play/a0d1/index.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-16",
+            "id": "vip-17",
             "name": "Star Sports 2 Telugu (576p)",
             "logo": "https://i.imgur.com/m7DvvqF.png",
             "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0424/master.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-17",
+            "id": "vip-18",
             "name": "Star Sports 2 Telugu HD (1080p)",
             "logo": "https://i.imgur.com/m7DvvqF.png",
             "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0513/master.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-18",
+            "id": "vip-19",
             "name": "Star Sports 3 (576p)",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png",
             "url": "http://103.121.6.5:8000/play/a05y/index.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-19",
+            "id": "vip-20",
             "name": "Star Sports Khel (576p)",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_KHEL/images/LOGO_HD/LOGO_HD_image.png",
             "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0423/master.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-20",
-            "name": "Star Sports Select 1 HD (1080p)",
-            "logo": "https://i.imgur.com/Mh9tKPx.png",
-            "url": "http://103.113.103.202:8001/play/a02e/index.m3u8",
-            "group": "VIP Cricket"
-        },
-        {
             "id": "vip-21",
-            "name": "Star Sports Select 2 HD (1080p)",
-            "logo": "https://i.imgur.com/FtRT73R.png",
-            "url": "http://103.113.103.202:8001/play/a02q/index.m3u8",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-22",
             "name": "Ten Sports Pakistan",
             "logo": "https://i.imgur.com/nnqpYNm.png",
             "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-23",
+            "id": "vip-22",
             "name": "Unbeaten Sports Channel (1080p)",
             "logo": "https://i.imgur.com/LmkNt3v.png",
             "url": "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-24",
+            "id": "vip-23",
             "name": "Willow Sports (1080p)",
             "logo": "https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png",
             "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-25",
+            "id": "vip-24",
             "name": "Star Sports 1 HD",
             "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",
             "url": "http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-26",
-            "name": "Star Sports 1 HD",
-            "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",
-            "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-27",
-            "name": "\ud83d\udea8 Willow USA SPORT HD \ud83d\udea8\ud83d\udce1\ud83d\udcfa",
-            "logo": "https://i.imgur.com/9O0jF1m.png",
+            "id": "vip-25",
+            "name": "Willow Sports \u1d34\u1d30 \ud83d\udea8",
+            "logo": "https://img.willow.tv/apps/wlw-nw-lgo.png",
             "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8",
             "group": "VIP Cricket"
         }
