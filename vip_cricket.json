@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-11 01:24:15 PM",
+    "updated_at": "2026-03-11 03:37:23 PM",
     "channels": [
         {
             "id": "vip-1",
@@ -171,9 +171,9 @@
         },
         {
             "id": "vip-25",
-            "name": "Willow Sports \u1d34\u1d30 \ud83d\udea8",
-            "logo": "https://img.willow.tv/apps/wlw-nw-lgo.png",
-            "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8",
+            "name": "Star Sports 1 HD",
+            "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",
+            "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
             "group": "VIP Cricket"
         }
     ]
