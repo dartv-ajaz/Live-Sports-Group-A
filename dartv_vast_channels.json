@@ -894,6 +894,18 @@
         "status": "active"
     },
     {
+        "name": "SONY MAX 2 (576P)",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/sony-max-2/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "SONY MAX (576P)",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/sony-max-hd/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "MINIMAX (576P) [NOT 24/7]",
         "url": "http://116.90.120.149:8000/play/a01c/index.m3u8",
         "category": "Movies",
