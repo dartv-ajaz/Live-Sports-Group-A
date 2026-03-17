@@ -690,30 +690,6 @@
         "status": "active"
     },
     {
-        "name": "STAR SPORTS 1 HINDI HD (1080P)",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0443/master.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 1 HINDI (576P)",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0415/master.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 1 HD (1080P)",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0441/master.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 1 (576P)",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0412/master.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
         "name": "STAR MOVIES SELECT HD (1080P)",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0440/master.m3u8",
         "category": "Movies",
