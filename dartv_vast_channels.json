@@ -84,20 +84,8 @@
         "status": "active"
     },
     {
-        "name": "COLORS BANGLA (576P)",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0464/master.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "COLORS BANGLA HD (1080P)",
         "url": "http://103.229.254.25:7001/play/a0ds/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS BANGLA HD (1080P)",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0458/master.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
@@ -236,12 +224,6 @@
     {
         "name": "JALSHA MOVIES HD (1080P)",
         "url": "http://103.229.254.25:7001/play/a0dt/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "JAYA MAX (576P)",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0313/master.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -399,12 +381,6 @@
         "name": "ZEE PUNJAB HARYANA HIMACHAL (720P)",
         "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8",
         "category": "Pakistani Drama",
-        "status": "active"
-    },
-    {
-        "name": "ZEE TV HD (1080P)",
-        "url": "http://103.229.254.25:7001/play/a0cs/index.m3u8",
-        "category": "Indian Drama",
         "status": "active"
     },
     {
@@ -708,9 +684,15 @@
         "status": "active"
     },
     {
-        "name": "COLORS HD (720P)",
-        "url": "https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8",
+        "name": "COLORS HD (480P)",
+        "url": "http://tvn1.chowdhury-shaheb.com/colors/index.m3u8",
         "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "JAYA MAX (576P)",
+        "url": "https://mac.zenplay.top/linear-live.php?id=994&amp;vtoken=&amp;e=.m3u8",
+        "category": "Movies",
         "status": "active"
     },
     {
