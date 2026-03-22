@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-23 04:25:25 AM",
+    "updated_at": "2026-03-23 05:00:56 AM",
     "channels": [
         {
             "id": "vip-1",
@@ -160,13 +160,6 @@
             "name": "Star Sports 2 HD Hindi",
             "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg",
             "url": "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-24",
-            "name": "Willow Sports \u1d34\u1d30 \ud83d\udea8",
-            "logo": "https://img.willow.tv/apps/wlw-nw-lgo.png",
-            "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8",
             "group": "VIP Cricket"
         }
     ]
