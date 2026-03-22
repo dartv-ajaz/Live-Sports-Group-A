@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-22 05:21:33 AM",
+    "updated_at": "2026-03-22 08:00:48 AM",
     "total_cricket_channels": 25,
     "channels": [
         {
@@ -80,38 +80,38 @@
             "id": "cricket-11"
         },
         {
+            "name": "Sony Sports Ten 5 (480p)",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
+            "group": "Cricket",
+            "url": "http://103.99.249.139/sonyten3/index.m3u8",
+            "id": "cricket-12"
+        },
+        {
             "name": "Sony Sports Ten 5 HD (1080p)",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
             "group": "Cricket",
             "url": "http://116.90.120.151:8000/play/a0hb/index.m3u8",
-            "id": "cricket-12"
+            "id": "cricket-13"
         },
         {
             "name": "Star Sports 1 HD (1080p)",
             "logo": "https://i.imgur.com/E5jjKHI.png",
             "group": "Cricket",
             "url": "http://116.90.120.151:8000/play/a0gs/index.m3u8",
-            "id": "cricket-13"
+            "id": "cricket-14"
         },
         {
             "name": "Star Sports 1 Kannada (576p)",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_KANNADA/images/LOGO_HD/image.png",
             "group": "Cricket",
             "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0420/master.m3u8",
-            "id": "cricket-14"
+            "id": "cricket-15"
         },
         {
             "name": "Star Sports 1 Tamil (576p)",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png",
             "group": "Cricket",
             "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0419/master.m3u8",
-            "id": "cricket-15"
-        },
-        {
-            "name": "Star Sports 1 Tamil HD (1080p)",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png",
-            "group": "Cricket",
-            "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0472/master.m3u8",
             "id": "cricket-16"
         },
         {

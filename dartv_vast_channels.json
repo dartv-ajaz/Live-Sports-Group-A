@@ -432,12 +432,6 @@
         "status": "active"
     },
     {
-        "name": "STAR SPORTS 3 (576P)",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0414/master.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
         "name": "STAR SPORTS 2 TELUGU HD (1080P)",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0513/master.m3u8",
         "category": "Sports",
@@ -470,12 +464,6 @@
     {
         "name": "STAR SPORTS 1 TELUGU (576P)",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0421/master.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 1 TAMIL HD (1080P)",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0472/master.m3u8",
         "category": "Sports",
         "status": "active"
     },
@@ -666,12 +654,6 @@
         "status": "active"
     },
     {
-        "name": "SONY MAX HD (720P)",
-        "url": "https://padmaonline.duckdns.org:8088/SonyMaxHD/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "COLORS CINEPLEX HD (720P)",
         "url": "https://padmaonline.duckdns.org:8088/ColorsCineplexHD/index.m3u8",
         "category": "Indian Drama",
@@ -692,6 +674,42 @@
     {
         "name": "JAYA MAX (576P)",
         "url": "https://mac.zenplay.top/linear-live.php?id=994&amp;vtoken=&amp;e=.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 3 (576P)",
+        "url": "http://103.161.153.165:8000/play/a05p/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "MOVIES NOW + (1080P)",
+        "url": "http://103.161.153.165:8000/play/a04o/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "MOVIES NOW HD (1080P)",
+        "url": "http://103.161.153.165:8000/play/mnh/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "&PICTURES HD (1080P)",
+        "url": "http://103.161.153.165:8000/play/a05u/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 5 (480P)",
+        "url": "http://103.99.249.139/sonyten3/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "SONY MAX HD (480P)",
+        "url": "http://103.99.249.139/sonymax/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
