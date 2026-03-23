@@ -510,12 +510,6 @@
         "status": "active"
     },
     {
-        "name": "MINIMAX (576P) [NOT 24/7]",
-        "url": "http://116.90.120.149:8000/play/a01c/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "TEN SPORTS PAKISTAN",
         "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
         "category": "Sports",
@@ -558,9 +552,27 @@
         "status": "active"
     },
     {
+        "name": "MINIMAX (360P)",
+        "url": "https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "SAB TV (1080P)",
-        "url": "http://103.250.28.74:8000/play/a04w/index.m3u8",
+        "url": "https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8",
         "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "BOL ENTERTAINMENT (1080P)",
+        "url": "https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "EXPRESS ENTERTAINMENT (1080P)",
+        "url": "https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8",
+        "category": "Pakistani Drama",
         "status": "active"
     }
 ]
