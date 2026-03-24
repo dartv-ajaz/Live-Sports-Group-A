@@ -1,6 +1,6 @@
 {
-    "updated_at": "2026-03-24 05:05:24 AM",
-    "total_cricket_channels": 18,
+    "updated_at": "2026-03-24 07:53:35 AM",
+    "total_cricket_channels": 16,
     "channels": [
         {
             "name": "Sony Sports Ten 3 Hindi (576p)",
@@ -94,39 +94,25 @@
             "id": "cricket-13"
         },
         {
-            "name": "Star Sports 2 Tamil (576p)",
-            "logo": "https://i.imgur.com/eWPoUxB.png",
-            "group": "Cricket",
-            "url": "http://103.229.254.25:7001/play/a0dc/index.m3u8",
-            "id": "cricket-14"
-        },
-        {
-            "name": "Star Sports 2 Tamil HD (1080p)",
-            "logo": "https://i.imgur.com/eWPoUxB.png",
-            "group": "Cricket",
-            "url": "http://103.229.254.25:7001/play/a0d1/index.m3u8",
-            "id": "cricket-15"
-        },
-        {
             "name": "Ten Sports Pakistan",
             "logo": "https://i.imgur.com/nnqpYNm.png",
             "group": "Cricket",
             "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
-            "id": "cricket-16"
+            "id": "cricket-14"
         },
         {
             "name": "Unbeaten Sports Channel (1080p)",
             "logo": "https://i.imgur.com/LmkNt3v.png",
             "group": "Cricket",
             "url": "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8",
-            "id": "cricket-17"
+            "id": "cricket-15"
         },
         {
             "name": "Willow Sports (1080p)",
             "logo": "https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png",
             "group": "Cricket",
             "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8",
-            "id": "cricket-18"
+            "id": "cricket-16"
         }
     ]
 }

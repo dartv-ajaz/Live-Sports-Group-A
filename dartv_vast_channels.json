@@ -234,18 +234,6 @@
         "status": "active"
     },
     {
-        "name": "STAR SPORTS 2 TAMIL (576P)",
-        "url": "http://103.229.254.25:7001/play/a0dc/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 2 TAMIL HD (1080P)",
-        "url": "http://103.229.254.25:7001/play/a0d1/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
         "name": "ZB CINEMA (720P)",
         "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
         "category": "Movies",
