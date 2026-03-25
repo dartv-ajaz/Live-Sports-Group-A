@@ -102,12 +102,6 @@
         "status": "active"
     },
     {
-        "name": "COLORS TAMIL HD (360P)",
-        "url": "http://198.27.83.207:2550/COLORS_TAMIL_SD/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "DANGAL 2 (720P)",
         "url": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8",
         "category": "Indian Drama",
@@ -288,18 +282,6 @@
         "status": "active"
     },
     {
-        "name": "B4U MOVIES APAC (720P)",
-        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/b4u-movies-apac/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "B4U MUSIC APAC (720P)",
-        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/b4u-music/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "COLORS BANGLA CINEMA (576P)",
         "url": "http://116.90.120.151:8000/play/a0jh/index.m3u8",
         "category": "Indian Drama",
@@ -438,12 +420,6 @@
         "status": "active"
     },
     {
-        "name": "COLORS CINEPLEX HD (720P)",
-        "url": "https://padmaonline.duckdns.org:8088/ColorsCineplexHD/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "SONY ENTERTAINMENT TELEVISION HD (720P)",
         "url": "https://padmaonline.duckdns.org:8088/SETHD/index.m3u8",
         "category": "Indian Drama",
@@ -494,6 +470,18 @@
     {
         "name": "SONY MAX HD (480P)",
         "url": "http://103.99.249.139/sonymax/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U MUSIC APAC (720P)",
+        "url": "https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge3/b4u-music",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U MOVIES APAC (720P)",
+        "url": "https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge3/b4u-movies-apac",
         "category": "Movies",
         "status": "active"
     },
