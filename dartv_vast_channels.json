@@ -492,14 +492,8 @@
         "status": "active"
     },
     {
-        "name": "TEN SPORTS PAKISTAN",
-        "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "ARY ZINDAGI (576P)",
-        "url": "http://115.42.65.142:9981/stream/channelid/1064070262",
+        "name": "A-PLUS TV (576P)",
+        "url": "http://115.42.65.142:9981/stream/channelid/113328724",
         "category": "Pakistani Drama",
         "status": "active"
     },
@@ -510,8 +504,20 @@
         "status": "active"
     },
     {
-        "name": "A-PLUS TV (576P)",
-        "url": "http://115.42.65.142:9981/stream/channelid/113328724",
+        "name": "ARY ZINDAGI (576P)",
+        "url": "http://115.42.65.142:9981/stream/channelid/1064070262",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "BOL ENTERTAINMENT (1080P)",
+        "url": "https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "EXPRESS ENTERTAINMENT (1080P)",
+        "url": "https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8",
         "category": "Pakistani Drama",
         "status": "active"
     },
@@ -528,15 +534,15 @@
         "status": "active"
     },
     {
-        "name": "PTV SPORTS (1080P)",
-        "url": "http://103.250.28.74:8000/play/a019/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
         "name": "MINIMAX (360P)",
         "url": "https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8",
         "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "PTV SPORTS (1080P)",
+        "url": "http://103.250.28.74:8000/play/a019/index.m3u8",
+        "category": "Sports",
         "status": "active"
     },
     {
@@ -546,15 +552,9 @@
         "status": "active"
     },
     {
-        "name": "BOL ENTERTAINMENT (1080P)",
-        "url": "https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8",
-        "category": "Pakistani Drama",
-        "status": "active"
-    },
-    {
-        "name": "EXPRESS ENTERTAINMENT (1080P)",
-        "url": "https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8",
-        "category": "Pakistani Drama",
+        "name": "TEN SPORTS PAKISTAN",
+        "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
+        "category": "Sports",
         "status": "active"
     }
 ]
