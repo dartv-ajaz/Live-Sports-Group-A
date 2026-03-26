@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-26 04:24:16 PM",
+    "updated_at": "2026-03-26 05:22:03 PM",
     "channels": [
         {
             "id": "vip-1",
@@ -87,13 +87,6 @@
         },
         {
             "id": "vip-13",
-            "name": "Star Sports 1 HD",
-            "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",
-            "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-14",
             "name": "Star Sports 2 HD Hindi",
             "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg",
             "url": "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8",
