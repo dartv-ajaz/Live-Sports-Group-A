@@ -486,6 +486,12 @@
         "status": "active"
     },
     {
+        "name": "STV HARYANA NEWS (576P)",
+        "url": "https://mumt01.tangotv.in/STVHARYANANEWS/index.m3u8",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
         "name": "TEN SPORTS PAKISTAN",
         "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
         "category": "Sports",
