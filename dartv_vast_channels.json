@@ -492,6 +492,24 @@
         "status": "active"
     },
     {
+        "name": "COLORS TAMIL HD (1080P)",
+        "url": "http://ptu.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "STAR MOVIES HD (1080P)",
+        "url": "http://ptu.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 1 HD (1080P)",
+        "url": "http://ptu.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
         "name": "A-PLUS TV (576P)",
         "url": "http://115.42.65.142:9981/stream/channelid/113328724",
         "category": "Pakistani Drama",
