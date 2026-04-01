@@ -378,48 +378,6 @@
         "status": "active"
     },
     {
-        "name": "STAR SPORTS 1 HD (1080P)",
-        "url": "http://116.90.120.151:8000/play/a0gs/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 1 HINDI (576P)",
-        "url": "http://116.90.120.151:8000/play/a0h1/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 1 HINDI HD (1080P)",
-        "url": "http://116.90.120.151:8000/play/a0je/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 2 HD (1080P)",
-        "url": "http://116.90.120.151:8000/play/a0jb/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 2 HINDI (576P)",
-        "url": "http://116.90.120.151:8000/play/a0jc/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 2 HINDI HD (1080P)",
-        "url": "http://116.90.120.151:8000/play/a0hi/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 2 HINDI HD (480P)",
-        "url": "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
         "name": "STAR SPORTS 3 (576P)",
         "url": "http://103.161.153.165:8000/play/a05p/index.m3u8",
         "category": "Sports",
