@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-02 11:38:52 PM",
+    "updated_at": "2026-04-03 12:59:18 AM",
     "channels": [
         {
             "id": "vip-1",
@@ -59,20 +59,13 @@
         },
         {
             "id": "vip-9",
-            "name": "PSL \ud83c\uddf5\ud83c\uddf0\ud83c\udfcf Willow HD",
-            "logo": "https://i.imgur.com/9O0jF1m.png",
-            "url": "http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-10",
             "name": "Star Sports SL 1 \ud83c\uddee\ud83c\uddf3",
             "logo": " ",
             "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-11",
+            "id": "vip-10",
             "name": "Star Sports SL 2 \ud83c\uddee\ud83c\uddf3",
             "logo": " ",
             "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8",
