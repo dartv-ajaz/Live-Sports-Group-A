@@ -120,12 +120,6 @@
         "status": "active"
     },
     {
-        "name": "COLORS CINEPLEX BOLLYWOOD (576P)",
-        "url": "http://103.182.170.32:8888/play/a01o",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "COLORS CINEPLEX HD (1080P)",
         "url": "http://116.90.120.151:8000/play/a0ji/index.m3u8",
         "category": "Indian Drama",
@@ -234,12 +228,6 @@
         "status": "active"
     },
     {
-        "name": "MOVIES NOW HD (1080P)",
-        "url": "http://116.90.120.151:8000/play/a0ib/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "NEWS18 PUNJAB/HARYANA/HIMACHAL (1080P)",
         "url": "https://n18syndication.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/master.m3u8",
         "category": "Pakistani Drama",
@@ -264,36 +252,6 @@
         "status": "active"
     },
     {
-        "name": "SONY ENTERTAINMENT TELEVISION HD (1080P)",
-        "url": "http://116.90.120.151:8000/play/a0gp/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "SONY ENTERTAINMENT TELEVISION HD (720P)",
-        "url": "https://padmaonline.duckdns.org:8088/SETHD/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "SONY MAX 2 (576P)",
-        "url": "http://116.90.120.151:8000/play/a0h0/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "SONY MAX HD (1080P)",
-        "url": "http://116.90.120.151:8000/play/a0jf/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "SONY MAX HD (480P)",
-        "url": "http://103.99.249.139/sonymax/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "SONY SPORTS TEN 2 HD (1080P)",
         "url": "http://103.229.254.25:7001/play/a02t/index.m3u8",
         "category": "Sports",
@@ -303,30 +261,6 @@
         "name": "SONY SPORTS TEN 3 HINDI (576P)",
         "url": "http://103.229.254.25:7001/play/a09q/index.m3u8",
         "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "SONY SPORTS TEN 5 (480P)",
-        "url": "http://103.99.249.139/sonyten3/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "SONY SPORTS TEN 5 HD (1080P)",
-        "url": "http://116.90.120.151:8000/play/a0hb/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR BHARAT (576P)",
-        "url": "http://116.90.120.151:8000/play/a0h2/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "STAR GOLD 2 (576P)",
-        "url": "http://116.90.120.151:8000/play/a0gz/index.m3u8",
-        "category": "Movies",
         "status": "active"
     },
     {
@@ -342,38 +276,14 @@
         "status": "active"
     },
     {
-        "name": "STAR GOLD HD (480P)",
-        "url": "http://103.99.249.139/stargold/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR GOLD ROMANCE (576P)",
-        "url": "http://116.90.120.151:8000/play/a0he/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "STAR GOLD SELECT HD (1080P)",
         "url": "http://103.229.254.25:7001/play/a032/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
     {
-        "name": "STAR GOLD THRILLS (576P)",
-        "url": "http://116.90.120.151:8000/play/a0gw/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "STAR MAA GOLD (576P)",
         "url": "http://103.121.6.5:8000/play/a063/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR MOVIES SELECT HD (1080P)",
-        "url": "http://116.90.120.151:8000/play/a0ij/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -426,12 +336,6 @@
         "status": "active"
     },
     {
-        "name": "ZEE CINEMA HD (480P)",
-        "url": "http://103.99.249.139/zeecinema/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "ZEE DELHI NCR HARYANA (720P)",
         "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8",
         "category": "Pakistani Drama",
@@ -450,20 +354,116 @@
         "status": "active"
     },
     {
-        "name": "COLORS TAMIL HD (1080P)",
-        "url": "http://ptu.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8",
-        "category": "Indian Drama",
+        "name": "STAR SPORTS 1 HD (1080P)",
+        "url": "http://ptu.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8",
+        "category": "Sports",
         "status": "active"
     },
     {
-        "name": "STAR MOVIES HD (1080P)",
-        "url": "http://ptu.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8",
+        "name": "ZEE CINEMA HD (1080P)",
+        "url": "http://103.157.248.140:8000/play/a00q/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
     {
-        "name": "STAR SPORTS 1 HD (1080P)",
-        "url": "http://ptu.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8",
+        "name": "STAR SPORTS 2 HINDI HD (1080P)",
+        "url": "http://103.157.248.140:8000/play/a01m/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 1 HINDI (576P)",
+        "url": "http://103.157.248.140:8000/play/a00g/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD THRILLS (576P)",
+        "url": "http://103.157.248.140:8000/play/a00b/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD ROMANCE (576P)",
+        "url": "http://103.157.248.140:8000/play/a01i/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD 2 (576P)",
+        "url": "http://103.157.248.140:8000/play/a00e/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR MOVIES HD (1080P)",
+        "url": "http://103.157.248.140:8000/play/a01t/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR MOVIES HD (1080P)",
+        "url": "http://ptuf.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 5 HD (1080P)",
+        "url": "http://103.157.248.140:8000/play/a05x/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "SONY MAX (576P)",
+        "url": "http://103.157.248.140:8000/play/a01l/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "SONY ENTERTAINMENT TELEVISION HD (1080P)",
+        "url": "http://103.157.248.140:8000/play/a004/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS TAMIL HD (1080P)",
+        "url": "http://ptuf.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS TAMIL HD (1080P)",
+        "url": "http://103.157.248.140:8000/play/a069/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS CINEPLEX BOLLYWOOD (576P)",
+        "url": "http://103.157.248.140:8000/play/a00x/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "ZEE TV (1080P)",
+        "url": "http://103.229.254.25:7001/play/a0cs/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS TAMIL (576P)",
+        "url": "http://ajkiptv.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 1 TAMIL HD (1080P)",
+        "url": "http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL_HD/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 1 TAMIL (576P)",
+        "url": "http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL/index.m3u8",
         "category": "Sports",
         "status": "active"
     },
