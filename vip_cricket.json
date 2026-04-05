@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-05 04:07:27 PM",
+    "updated_at": "2026-04-05 05:02:31 PM",
     "channels": [
         {
             "id": "vip-1",
@@ -80,65 +80,9 @@
         },
         {
             "id": "vip-12",
-            "name": "PTV SPORTS HD",
-            "logo": "https://i.postimg.cc/W3QSrL7T/20260213_084216.png",
-            "url": "http://103.144.89.251:8082/PTV-SPORTS-HD/index.m3u8?token=ae53dd4128f2957b7e89e58478b34e368b9c35d2-45983feb1fae9a0239b3ce21fab5441a-1775382161-1775371361&remote=no_check_ip",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-13",
-            "name": "STAR SPORTS 1 HD",
-            "logo": "https://i.postimg.cc/N0sYHFDj/20251002_230032.png",
-            "url": "http://103.144.89.251:8082/STAR.SPORTS1.HD/index.m3u8?token=3065f278db2c94629c6dcea8da6920743538fac0-ca42da42020dba8b0d36cdaea70797b1-1775382161-1775371361&remote=no_check_ip",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-14",
-            "name": "STAR SPORTS 2 HD",
-            "logo": "https://i.postimg.cc/yNvbVTHy/20250702_032050.png",
-            "url": "http://103.144.89.251:8082/STAR.SPORTS2.HD/index.m3u8?token=3a26237ce9bd509af4cb81901bff8f36211b4651-01222459a19bf243645b1f628b4ef204-1775382161-1775371361&remote=no_check_ip",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-15",
-            "name": "STAR SPORTS 3",
-            "logo": "https://i.postimg.cc/Z0kRcZWB/20260402_210448.png",
-            "url": "http://103.144.89.251:8082/STAR-SPORTS.3/index.m3u8?token=83431259fe888f00c0e218c30603094a1869ce35-ada9f8373892fe7026ae908c2afd4a21-1775382160-1775371360&remote=no_check_ip",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-16",
-            "name": "STAR SPORTS SELECT 1 HD",
-            "logo": "https://i.postimg.cc/50ykjF9d/20250702_032238.png",
-            "url": "http://103.144.89.251:8082/STAR.SPORTS-SEL1.HD/index.m3u8?token=2522ed3ce6333855836818c45e114b43af5a6909-7c5a1b20c4100b7dc946b87b2dbfb72a-1775382160-1775371360&remote=no_check_ip",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-17",
-            "name": "STAR SPORTS SELECT 2 HD",
-            "logo": "https://i.postimg.cc/DzvFX06y/20251002_225947.png",
-            "url": "http://103.144.89.251:8082/STAR.SPORTS.SEL.2.HD/index.m3u8?token=606dc6216e27e5097f129c423cdd04141569de2d-55ab15bbe72644e061daa954403ae5fc-1775382161-1775371361&remote=no_check_ip",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-18",
-            "name": "PSL \ud83c\uddf5\ud83c\uddf0\ud83c\udfcf Willow HD",
-            "logo": "https://i.imgur.com/9O0jF1m.png",
-            "url": "http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-19",
             "name": "Star Sports SL 1 \ud83c\uddee\ud83c\uddf3",
             "logo": " ",
             "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-20",
-            "name": "Star Sports SL 2 \ud83c\uddee\ud83c\uddf3",
-            "logo": " ",
-            "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8",
             "group": "VIP Cricket"
         }
     ]
