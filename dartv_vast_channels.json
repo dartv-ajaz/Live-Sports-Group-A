@@ -468,6 +468,12 @@
         "status": "active"
     },
     {
+        "name": "ZEE CINEMALU HD (1080P)",
+        "url": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "A-PLUS TV (576P)",
         "url": "http://115.42.65.142:9981/stream/channelid/113328724",
         "category": "Pakistani Drama",
