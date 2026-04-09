@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-10 02:40:33 AM",
+    "updated_at": "2026-04-10 03:35:26 AM",
     "channels": [
         {
             "id": "vip-1",
@@ -66,16 +66,16 @@
         },
         {
             "id": "vip-10",
-            "name": "Star Sports SL 1 \ud83c\uddee\ud83c\uddf3",
-            "logo": " ",
-            "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8",
+            "name": "Star Sports 1 HD",
+            "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",
+            "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
             "group": "VIP Cricket"
         },
         {
             "id": "vip-11",
-            "name": "Star Sports SL 2 \ud83c\uddee\ud83c\uddf3",
+            "name": "Star Sports SL 1 \ud83c\uddee\ud83c\uddf3",
             "logo": " ",
-            "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8",
+            "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8",
             "group": "VIP Cricket"
         }
     ]
