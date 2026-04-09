@@ -354,12 +354,6 @@
         "status": "active"
     },
     {
-        "name": "STAR SPORTS 1 HD (1080P)",
-        "url": "http://ptu.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
         "name": "ZEE CINEMA HD (1080P)",
         "url": "http://103.157.248.140:8000/play/a00q/index.m3u8",
         "category": "Movies",
