@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-09 09:32:13 PM",
+    "updated_at": "2026-04-09 11:07:24 PM",
     "channels": [
         {
             "id": "vip-1",
@@ -76,6 +76,13 @@
             "name": "Star Sports SL 1 \ud83c\uddee\ud83c\uddf3",
             "logo": " ",
             "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8",
+            "group": "VIP Cricket"
+        },
+        {
+            "id": "vip-12",
+            "name": "Star Sports SL 2 \ud83c\uddee\ud83c\uddf3",
+            "logo": " ",
+            "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8",
             "group": "VIP Cricket"
         }
     ]
