@@ -1,12 +1,6 @@
 [
     {
         "name": "&PICTURES HD (1080P)",
-        "url": "http://103.161.153.165:8000/play/a05u/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "&PICTURES HD (1080P)",
         "url": "http://103.229.254.25:7001/play/a033/index.m3u8",
         "category": "Movies",
         "status": "active"
@@ -288,12 +282,6 @@
         "status": "active"
     },
     {
-        "name": "STAR SPORTS 3 (576P)",
-        "url": "http://103.161.153.165:8000/play/a05p/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
         "name": "STAR UTSAV MOVIES (576P)",
         "url": "http://116.90.120.151:8000/play/a0ka/index.m3u8",
         "category": "Movies",
@@ -345,12 +333,6 @@
         "name": "ZEE PUNJAB HARYANA HIMACHAL (720P)",
         "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8",
         "category": "Pakistani Drama",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 1 TAMIL (576P)",
-        "url": "http://ptu.ridsys.in/riptv/live/STAR_SPORTS_TAMIL/index.m3u8",
-        "category": "Sports",
         "status": "active"
     },
     {
