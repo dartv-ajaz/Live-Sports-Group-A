@@ -180,12 +180,6 @@
         "status": "active"
     },
     {
-        "name": "JAYA MAX (576P)",
-        "url": "https://mac.zenplay.top/linear-live.php?amp;e=.m3u8&amp;vtoken=&id=994",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "MAHAA MAX (1080P)",
         "url": "https://d8wpu6ewxtzy0.cloudfront.net/mahaamaxx/index.m3u8",
         "category": "Movies",
@@ -446,6 +440,12 @@
     {
         "name": "ZEE CINEMALU HD (1080P)",
         "url": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "JAYA MAX (576P)",
+        "url": "http://ajkiptv.ridsys.in/riptv/live/JAYA_MAX/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
