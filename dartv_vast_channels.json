@@ -450,6 +450,96 @@
         "status": "active"
     },
     {
+        "name": "DD SPORTS SD (720P)",
+        "url": "http://103.213.31.109:90/ZeeAnmolCinema2/playlist.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "MANORANJAN MOVIES (720P)",
+        "url": "http://103.213.31.109:90/ManoranjanMovies/playlist.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "GOLDMINES MOVIES (720P)",
+        "url": "http://103.213.31.109:90/GoldminesMovies/playlist.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "DANGAL 2 (720P)",
+        "url": "http://103.213.31.109:90/Dangal2/playlist.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "DANGAL TV (720P)",
+        "url": "http://103.213.31.109:90/Dangal/playlist.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS CINEPLEX BOLLYWOOD (564P)",
+        "url": "http://103.213.31.109:90/CineplxBollywood/playlist.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "BHOJPURI CINEMA (720P)",
+        "url": "http://103.213.31.109:90/BhojpuriCinema/playlist.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U MOVIES (720P)",
+        "url": "http://103.213.31.109:90/B4UMovies/playlist.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U KADAK (720P)",
+        "url": "http://103.213.31.109:90/B4UKadak/playlist.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U BHOJPURI (720P)",
+        "url": "http://103.213.31.109:90/B4UBhojpuri/playlist.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "BHARAT EXPRESS",
+        "url": "https://cdn-2.pishow.tv/live/1139/master.m3u8",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "BHOJPURI CINEMA",
+        "url": "https://cdn-4.pishow.tv/live/1033/master.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "PTC PUNJABI GOLD",
+        "url": "https://cdn-7.pishow.tv/live/450/master.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U MOVIES",
+        "url": "https://cdn-2.pishow.tv/live/419/master.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U KADAK",
+        "url": "https://cdn-2.pishow.tv/live/227/master.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "A-PLUS TV (576P)",
         "url": "http://115.42.65.142:9981/stream/channelid/113328724",
         "category": "Pakistani Drama",
