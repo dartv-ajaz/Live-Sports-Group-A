@@ -1,11 +1,5 @@
 [
     {
-        "name": "&PICTURES HD (1080P)",
-        "url": "http://103.229.254.25:7001/play/a033/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "ABZY MOVIES (504P)",
         "url": "http://57.129.53.130:21001/ABZY_Movies/master.m3u8",
         "category": "Movies",
