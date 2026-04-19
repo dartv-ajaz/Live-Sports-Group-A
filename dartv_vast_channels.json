@@ -420,18 +420,6 @@
         "status": "active"
     },
     {
-        "name": "STAR SPORTS 1 TAMIL HD (1080P)",
-        "url": "http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL_HD/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 1 TAMIL (576P)",
-        "url": "http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
         "name": "ZEE CINEMALU HD (1080P)",
         "url": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8",
         "category": "Movies",
@@ -542,6 +530,18 @@
     {
         "name": "STAR SPORTS 1 HD (1080P)",
         "url": "http://ptuf.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 4 TELUGU (1080P)",
+        "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204%20HD.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 4 (1080P) [GEO-BLOCKED]",
+        "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204.m3u8",
         "category": "Sports",
         "status": "active"
     },
