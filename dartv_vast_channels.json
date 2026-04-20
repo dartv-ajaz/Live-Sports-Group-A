@@ -126,20 +126,8 @@
         "status": "active"
     },
     {
-        "name": "COLORS HD (480P)",
-        "url": "http://tvn1.chowdhury-shaheb.com/colors/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "COLORS INFINITY HD (1080P)",
         "url": "http://103.229.254.25:7001/play/a0du/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS RISHTEY ASIA (576P)",
-        "url": "http://116.90.120.151:8000/play/a0ku/index.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
@@ -234,12 +222,6 @@
         "status": "active"
     },
     {
-        "name": "SONY SPORTS TEN 2 HD (1080P)",
-        "url": "http://103.229.254.25:7001/play/a02t/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
         "name": "SONY SPORTS TEN 3 HINDI (576P)",
         "url": "http://103.229.254.25:7001/play/a09q/index.m3u8",
         "category": "Sports",
@@ -324,12 +306,6 @@
         "status": "active"
     },
     {
-        "name": "ZEE CINEMA HD (1080P)",
-        "url": "http://103.157.248.140:8000/play/a00q/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "STAR SPORTS 2 HINDI HD (1080P)",
         "url": "http://103.157.248.140:8000/play/a01m/index.m3u8",
         "category": "Sports",
@@ -372,24 +348,6 @@
         "status": "active"
     },
     {
-        "name": "SONY SPORTS TEN 5 HD (1080P)",
-        "url": "http://103.157.248.140:8000/play/a05x/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "SONY MAX (576P)",
-        "url": "http://103.157.248.140:8000/play/a01l/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "SONY ENTERTAINMENT TELEVISION HD (1080P)",
-        "url": "http://103.157.248.140:8000/play/a004/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "COLORS TAMIL HD (1080P)",
         "url": "http://ptuf.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8",
         "category": "Indian Drama",
@@ -414,20 +372,8 @@
         "status": "active"
     },
     {
-        "name": "COLORS TAMIL (576P)",
-        "url": "http://ajkiptv.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "ZEE CINEMALU HD (1080P)",
         "url": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "JAYA MAX (576P)",
-        "url": "http://ajkiptv.ridsys.in/riptv/live/JAYA_MAX/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -542,6 +488,132 @@
     {
         "name": "SONY SPORTS TEN 4 (1080P) [GEO-BLOCKED]",
         "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "ZEE ACTION (576P)",
+        "url": "http://103.154.3.101:5001/live/488.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "JAYA MAX (576P)",
+        "url": "http://103.154.3.101:5001/live/420.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "ZEE CINEMALU (576P)",
+        "url": "http://103.154.3.101:5001/live/413.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "COLORS RISHTEY ASIA (1080P)",
+        "url": "http://103.154.3.101:5001/live/279.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS GUJARATI (1080P)",
+        "url": "http://103.154.3.101:5001/live/196.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "&PICTURES HD (1080P)",
+        "url": "http://103.154.3.101:5001/live/185.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "ZEE TV HD (1080P)",
+        "url": "http://103.154.3.101:5001/live/167.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "ZEE CINEMA HD (1080P)",
+        "url": "http://103.154.3.101:5001/live/165.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "COLORS HD (1080P)",
+        "url": "http://103.154.3.101:5001/live/144.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "SONY MAX 2 (1080P) [GEO-BLOCKED]",
+        "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20MAX%202.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "SONY MAX (1080P) [GEO-BLOCKED]",
+        "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20MAX.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "SONY MAX HD (1080P) [GEO-BLOCKED]",
+        "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20MAX%20HD.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "SONY ENTERTAINMENT TELEVISION HD (1080P) [GEO-BLOCKED]",
+        "url": "https://sl.vodep39240327.workers.dev/channel/SET%20HD.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 5 (1080P) [GEO-BLOCKED]",
+        "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%205.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 5 HD (1080P) [GEO-BLOCKED]",
+        "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%205%20HD.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 1 (1080P) [GEO-BLOCKED]",
+        "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%201.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 1 HD (1080P) [GEO-BLOCKED]",
+        "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%201%20HD.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 2 (1080P) [GEO-BLOCKED]",
+        "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%202.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 2 HD (1080P) [GEO-BLOCKED]",
+        "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%202%20HD.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 3 HINDI (1080P) [GEO-BLOCKED]",
+        "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%203.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 3 HINDI HD (1080P) [GEO-BLOCKED]",
+        "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%203%20HD.m3u8",
         "category": "Sports",
         "status": "active"
     },
