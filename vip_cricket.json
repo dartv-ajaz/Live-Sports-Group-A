@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-21 05:36:35 AM",
+    "updated_at": "2026-04-21 09:21:27 AM",
     "channels": [
         {
             "id": "vip-1",
@@ -12,14 +12,14 @@
             "id": "vip-2",
             "name": "Star Sports 1 HD (1080p)",
             "logo": "https://i.imgur.com/E5jjKHI.png",
-            "url": "http://ptuf.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8",
+            "url": "http://103.253.18.58:8000/play/a00m",
             "group": "VIP Cricket"
         },
         {
             "id": "vip-3",
             "name": "Star Sports 1 Hindi (576p)",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png",
-            "url": "http://103.157.248.140:8000/play/a00g/index.m3u8",
+            "url": "http://103.253.18.58:8000/play/a03o",
             "group": "VIP Cricket"
         },
         {
