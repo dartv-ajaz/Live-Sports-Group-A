@@ -421,55 +421,55 @@
     },
     {
         "name": "ZEE ACTION (576P)",
-        "url": "http://103.154.3.101:5001/live/488.m3u8",
+        "url": "http://103.72.101.252:8080/live/488.m3u8",
         "category": "Movies",
         "status": "active"
     },
     {
         "name": "JAYA MAX (576P)",
-        "url": "http://103.154.3.101:5001/live/420.m3u8",
+        "url": "http://103.72.101.252:8080/live/420.m3u8",
         "category": "Movies",
         "status": "active"
     },
     {
         "name": "ZEE CINEMALU (576P)",
-        "url": "http://103.154.3.101:5001/live/413.m3u8",
+        "url": "http://103.72.101.252:8080/live/413.m3u8",
         "category": "Movies",
         "status": "active"
     },
     {
         "name": "COLORS RISHTEY ASIA (1080P)",
-        "url": "http://103.154.3.101:5001/live/279.m3u8",
+        "url": "http://103.72.101.252:8080/live/279.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
     {
         "name": "COLORS GUJARATI (1080P)",
-        "url": "http://103.154.3.101:5001/live/196.m3u8",
+        "url": "http://103.72.101.252:8080/live/196.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
     {
         "name": "&PICTURES HD (1080P)",
-        "url": "http://103.154.3.101:5001/live/185.m3u8",
+        "url": "http://103.72.101.252:8080/live/185.m3u8",
         "category": "Movies",
         "status": "active"
     },
     {
         "name": "ZEE TV HD (1080P)",
-        "url": "http://103.154.3.101:5001/live/167.m3u8",
+        "url": "http://103.72.101.252:8080/live/167.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
     {
         "name": "ZEE CINEMA HD (1080P)",
-        "url": "http://103.154.3.101:5001/live/165.m3u8",
+        "url": "http://103.72.101.252:8080/live/165.m3u8",
         "category": "Movies",
         "status": "active"
     },
     {
         "name": "COLORS HD (1080P)",
-        "url": "http://103.154.3.101:5001/live/144.m3u8",
+        "url": "http://103.72.101.252:8080/live/144.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
@@ -589,109 +589,109 @@
     },
     {
         "name": "COLORS CINEPLEX BOLLYWOOD (576P)",
-        "url": "http://103.154.3.101:5001/live/1763.m3u8",
+        "url": "http://103.72.101.252:8080/live/1763.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
     {
         "name": "COLORS BANGLA CINEMA (576P)",
-        "url": "http://103.154.3.101:5001/live/1657.m3u8",
+        "url": "http://103.72.101.252:8080/live/1657.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
     {
         "name": "COLORS KANNADA CINEMA (576P)",
-        "url": "http://103.154.3.101:5001/live/1632.m3u8",
+        "url": "http://103.72.101.252:8080/live/1632.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
     {
         "name": "COLORS CINEPLEX HD (1080P)",
-        "url": "http://103.154.3.101:5001/live/1477.m3u8",
+        "url": "http://103.72.101.252:8080/live/1477.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
     {
         "name": "COLORS CINEPLEX SUPERHITS (576P)",
-        "url": "http://103.154.3.101:5001/live/1450.m3u8",
+        "url": "http://103.72.101.252:8080/live/1450.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
     {
         "name": "COLORS KANNADA (576P)",
-        "url": "http://103.154.3.101:5001/live/1370.m3u8",
+        "url": "http://103.72.101.252:8080/live/1370.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
     {
         "name": "COLORS BANGLA (576P)",
-        "url": "http://103.154.3.101:5001/live/1369.m3u8",
+        "url": "http://103.72.101.252:8080/live/1369.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
     {
         "name": "COLORS (576P)",
-        "url": "http://103.154.3.101:5001/live/1368.m3u8",
+        "url": "http://103.72.101.252:8080/live/1368.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
     {
         "name": "COLORS INFINITY HD (1080P)",
-        "url": "http://103.154.3.101:5001/live/1158.m3u8",
+        "url": "http://103.72.101.252:8080/live/1158.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
     {
         "name": "COLORS MARATHI (576P)",
-        "url": "http://103.154.3.101:5001/live/1326.m3u8",
+        "url": "http://103.72.101.252:8080/live/1326.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
     {
         "name": "COLORS INFINITY (576P)",
-        "url": "http://103.154.3.101:5001/live/1325.m3u8",
+        "url": "http://103.72.101.252:8080/live/1325.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
     {
         "name": "COLORS GUJARATI CINEMA (360P)",
-        "url": "http://103.154.3.101:5001/live/1324.m3u8",
+        "url": "http://103.72.101.252:8080/live/1324.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
     {
         "name": "COLORS SUPER (1080P)",
-        "url": "http://103.154.3.101:5001/live/785.m3u8",
+        "url": "http://103.72.101.252:8080/live/785.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
     {
         "name": "COLORS KANNADA HD (1080P)",
-        "url": "http://103.154.3.101:5001/live/757.m3u8",
+        "url": "http://103.72.101.252:8080/live/757.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
     {
         "name": "COLORS BANGLA HD (1080P)",
-        "url": "http://103.154.3.101:5001/live/756.m3u8",
+        "url": "http://103.72.101.252:8080/live/756.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
     {
         "name": "COLORS MARATHI HD (1080P)",
-        "url": "http://103.154.3.101:5001/live/755.m3u8",
+        "url": "http://103.72.101.252:8080/live/755.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
     {
         "name": "COLORS CINEPLEX (576P)",
-        "url": "http://103.154.3.101:5001/live/482.m3u8",
+        "url": "http://103.72.101.252:8080/live/482.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
     {
         "name": "COLORS TAMIL HD (1080P)",
-        "url": "http://103.154.3.101:5001/live/429.m3u8",
+        "url": "http://103.72.101.252:8080/live/429.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
