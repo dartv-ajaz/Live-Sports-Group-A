@@ -228,12 +228,6 @@
         "status": "active"
     },
     {
-        "name": "STAR UTSAV MOVIES (576P)",
-        "url": "http://116.90.120.151:8000/play/a0ka/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "STV HARYANA NEWS (576P)",
         "url": "https://mumt01.tangotv.in/STVHARYANANEWS/index.m3u8",
         "category": "Pakistani Drama",
@@ -492,12 +486,6 @@
         "status": "active"
     },
     {
-        "name": "SONY ENTERTAINMENT TELEVISION HD (1080P) [GEO-BLOCKED]",
-        "url": "https://sl.vodep39240327.workers.dev/channel/SET%20HD.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "SONY SPORTS TEN 5 (1080P) [GEO-BLOCKED]",
         "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%205.m3u8",
         "category": "Sports",
@@ -699,6 +687,24 @@
         "name": "STAR SPORTS 2 HD (1080P)",
         "url": "https://mini.allinonereborn.fun/tata.php?id=11819",
         "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "ZEE TV HD (1080P)",
+        "url": "https://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_ZEE_TV_HD&uid=gana-sunega&pass=krish-ka",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "SONY ENTERTAINMENT TELEVISION HD (1080P)",
+        "url": "http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&uid=gana-sunega&pass=krish-ka",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "STAR UTSAV MOVIES (576P)",
+        "url": "http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES&uid=gana-sunega&pass=krish-ka",
+        "category": "Movies",
         "status": "active"
     },
     {
