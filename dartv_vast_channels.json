@@ -48,36 +48,6 @@
         "status": "active"
     },
     {
-        "name": "B4U MOVIES APAC (720P)",
-        "url": "https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge3/b4u-movies-apac",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "B4U MOVIES INDIA (1080P)",
-        "url": "https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "B4U MUSIC (1080P)",
-        "url": "https://cdn-2.pishow.tv/live/415/master.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "B4U MUSIC (1080P)",
-        "url": "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "B4U MUSIC APAC (720P)",
-        "url": "https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge3/b4u-music",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "BHARAT EXPRESS (480P)",
         "url": "https://stream1.livebox.co.in/VCAREhls/live.m3u8",
         "category": "Pakistani Drama",
