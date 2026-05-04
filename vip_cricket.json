@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-04 08:57:29 AM",
+    "updated_at": "2026-05-04 11:56:21 AM",
     "channels": [
         {
             "id": "vip-1",
@@ -66,9 +66,9 @@
         },
         {
             "id": "vip-10",
-            "name": "Willow-Cricket HD",
+            "name": "Sky Sports Cricket",
             "logo": "https://i.imgur.com/9O0jF1m.png",
-            "url": "https://cdn1.ctgiptv.com/willow-cricket/tracks-v1/mono.ts.m3u8",
+            "url": "http://185.94.79.41/1766/index.m3u8",
             "group": "VIP Cricket"
         },
         {
