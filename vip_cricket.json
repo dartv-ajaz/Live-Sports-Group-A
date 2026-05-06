@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-06 08:54:20 AM",
+    "updated_at": "2026-05-06 11:46:52 AM",
     "channels": [
         {
             "id": "vip-1",
@@ -59,20 +59,27 @@
         },
         {
             "id": "vip-9",
+            "name": "Star Sports 1 HD",
+            "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",
+            "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
+            "group": "VIP Cricket"
+        },
+        {
+            "id": "vip-10",
             "name": "Sky Sports Cricket",
             "logo": "https://i.imgur.com/9O0jF1m.png",
             "url": "http://185.94.79.41/1766/index.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-10",
+            "id": "vip-11",
             "name": "Willow-Cricket HD",
             "logo": "https://i.imgur.com/9O0jF1m.png",
             "url": "https://cdn1.ctgiptv.com/willow-cricket/tracks-v1/mono.ts.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-11",
+            "id": "vip-12",
             "name": "PTV Sports pk HD",
             "logo": "https://i.imgur.com/9O0jF1m.png",
             "url": "https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8",
