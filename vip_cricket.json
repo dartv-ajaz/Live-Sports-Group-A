@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-06 04:54:45 PM",
+    "updated_at": "2026-05-06 06:43:49 PM",
     "channels": [
         {
             "id": "vip-1",
@@ -59,9 +59,9 @@
         },
         {
             "id": "vip-9",
-            "name": "Sky Sports Cricket",
-            "logo": "https://i.imgur.com/9O0jF1m.png",
-            "url": "http://185.94.79.41/1766/index.m3u8",
+            "name": "Star Sports 1 HD",
+            "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",
+            "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
             "group": "VIP Cricket"
         },
         {
