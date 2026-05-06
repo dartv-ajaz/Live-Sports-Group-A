@@ -714,12 +714,6 @@
         "status": "active"
     },
     {
-        "name": "FILMAX (576P)",
-        "url": "http://103.250.28.74:8000/play/a02o/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "LTN FAMILY (576P)",
         "url": "http://103.250.28.74:8000/play/a02j/index.m3u8",
         "category": "Pakistani Drama",
@@ -747,6 +741,12 @@
         "name": "TEN SPORTS PAKISTAN",
         "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
         "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "FILMAX (576P)",
+        "url": "https://s3.ideationtec.live/Filmax/Filmax.m3u8",
+        "category": "Movies",
         "status": "active"
     }
 ]
