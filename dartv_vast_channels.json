@@ -258,12 +258,6 @@
         "status": "active"
     },
     {
-        "name": "ZEE TV (1080P)",
-        "url": "http://103.229.254.25:7001/play/a0cs/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "ZEE CINEMALU HD (1080P)",
         "url": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8",
         "category": "Movies",
@@ -414,12 +408,6 @@
         "status": "active"
     },
     {
-        "name": "ZEE TV HD (1080P)",
-        "url": "http://103.72.101.252:8080/live/167.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "ZEE CINEMA HD (1080P)",
         "url": "http://103.72.101.252:8080/live/165.m3u8",
         "category": "Movies",
@@ -435,30 +423,6 @@
         "name": "SONY MAX 2 (1080P) [GEO-BLOCKED]",
         "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20MAX%202.m3u8",
         "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "SONY MAX (1080P) [GEO-BLOCKED]",
-        "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20MAX.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "SONY MAX HD (1080P) [GEO-BLOCKED]",
-        "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20MAX%20HD.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "SONY SPORTS TEN 5 (1080P) [GEO-BLOCKED]",
-        "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%205.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "SONY SPORTS TEN 5 HD (1080P) [GEO-BLOCKED]",
-        "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%205%20HD.m3u8",
-        "category": "Sports",
         "status": "active"
     },
     {
@@ -558,12 +522,6 @@
         "status": "active"
     },
     {
-        "name": "COLORS CINEPLEX HD (1080P)",
-        "url": "http://103.72.101.252:8080/live/1477.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "COLORS CINEPLEX SUPERHITS (576P)",
         "url": "http://103.72.101.252:8080/live/1450.m3u8",
         "category": "Indian Drama",
@@ -636,21 +594,9 @@
         "status": "active"
     },
     {
-        "name": "COLORS CINEPLEX (576P)",
-        "url": "http://103.72.101.252:8080/live/482.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "COLORS TAMIL HD (1080P)",
         "url": "http://103.72.101.252:8080/live/429.m3u8",
         "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 2 HD (1080P)",
-        "url": "https://mini.allinonereborn.fun/tata.php?id=11819",
-        "category": "Sports",
         "status": "active"
     },
     {
@@ -681,6 +627,90 @@
         "name": "ETV CINEMA HD (1080P)",
         "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
         "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "COLORS CINEPLEX (576P)",
+        "url": "http://103.122.249.134:8000/play/a058",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS CINEPLEX HD (1080P)",
+        "url": "http://103.122.249.134:8000/play/a05j",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "SONY MAX HD (1080P)",
+        "url": "http://103.122.249.134:8000/play/a05a",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 5 HD (1080P)",
+        "url": "http://103.122.249.134:8000/play/a03d",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR BHARAT HD (1080P)",
+        "url": "http://103.122.249.134:8000/play/a054",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD 2 (576P)",
+        "url": "http://103.122.249.134:8000/play/a04o",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD THRILLS (576P)",
+        "url": "http://103.122.249.134:8000/play/a04g",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR MAA MOVIES HD (1080P)",
+        "url": "http://103.122.249.134:8000/play/a04n",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 1 HINDI HD (1080P)",
+        "url": "http://103.122.249.134:8000/play/a059",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 1 TAMIL HD (1080P)",
+        "url": "http://103.122.249.134:8000/play/a04e",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 2 HD (1080P)",
+        "url": "http://103.122.249.134:8000/play/a055",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 2 TAMIL (576P)",
+        "url": "http://103.122.249.134:8000/play/a04i",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 3 (576P)",
+        "url": "http://103.122.249.134:8000/play/a04u",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "ZEE TV HD (1080P)",
+        "url": "http://103.122.249.134:8000/play/a01r",
+        "category": "Indian Drama",
         "status": "active"
     },
     {
