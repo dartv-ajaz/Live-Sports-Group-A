@@ -72,12 +72,6 @@
         "status": "active"
     },
     {
-        "name": "COLORS INFINITY HD (1080P)",
-        "url": "http://103.229.254.25:7001/play/a0du/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "DANGAL 2 (720P)",
         "url": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8",
         "category": "Indian Drama",
@@ -492,20 +486,8 @@
         "status": "active"
     },
     {
-        "name": "COLORS INFINITY HD (1080P)",
-        "url": "http://103.72.101.252:8080/live/1158.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "COLORS MARATHI (576P)",
         "url": "http://103.72.101.252:8080/live/1326.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS INFINITY (576P)",
-        "url": "http://103.72.101.252:8080/live/1325.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
@@ -555,12 +537,6 @@
         "name": "SONY ENTERTAINMENT TELEVISION HD (1080P)",
         "url": "http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&uid=gana-sunega&pass=krish-ka",
         "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "STAR UTSAV MOVIES (576P)",
-        "url": "http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES&uid=gana-sunega&pass=krish-ka",
-        "category": "Movies",
         "status": "active"
     },
     {
@@ -711,6 +687,18 @@
         "name": "MOVIES NOW + (1080P)",
         "url": "http://149.71.34.166:8000/play/a05t/index.m3u8",
         "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR UTSAV MOVIES (576P)",
+        "url": "http://149.71.34.166:8000/play/a059/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "COLORS INFINITY HD (1080P)",
+        "url": "http://149.71.34.166:8002/play/a01d/index.m3u8",
+        "category": "Indian Drama",
         "status": "active"
     },
     {
