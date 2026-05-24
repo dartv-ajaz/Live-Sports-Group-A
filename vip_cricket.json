@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-24 05:00:39 AM",
+    "updated_at": "2026-05-24 09:20:42 AM",
     "channels": [
         {
             "id": "vip-1",
@@ -108,6 +108,13 @@
         },
         {
             "id": "vip-16",
+            "name": "PTV Sports pk HD",
+            "logo": "https://i.imgur.com/9O0jF1m.png",
+            "url": "https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8",
+            "group": "VIP Cricket"
+        },
+        {
+            "id": "vip-17",
             "name": "Willow Sports HD \ud83c\uddfa\ud83c\uddf8",
             "logo": " ",
             "url": "http://27.124.71.27/Willow_Extra/index.m3u8",
