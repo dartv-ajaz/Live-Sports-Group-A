@@ -1,23 +1,5 @@
 [
     {
-        "name": "ABZY MOVIES (504P)",
-        "url": "http://57.129.53.130:21001/ABZY_Movies/master.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "ABZY MOVIES (480P)",
-        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "ANMOL CINEMA (576P)",
-        "url": "http://116.90.120.151:8000/play/a0j6/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "B4U BHOJPURI (1080P)",
         "url": "https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8",
         "category": "Movies",
@@ -302,12 +284,6 @@
     {
         "name": "B4U KADAK",
         "url": "https://cdn-2.pishow.tv/live/227/master.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "B4U MUSIC (576P)",
-        "url": "http://103.213.31.109:90/B4UMusic/playlist.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -626,6 +602,24 @@
     {
         "name": "TOTAL TV HARYANA (396P)",
         "url": "https://d1msejlow1t3l4.cloudfront.net/fta/totaltv/playlist.m3u8",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "B4U MUSIC (576P)",
+        "url": "https://cdn-2.pishow.tv/live/415/master.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "ANDY HARYANA (576P)",
+        "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "ARYAN TV NATIONAL (576P)",
+        "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
         "category": "Pakistani Drama",
         "status": "active"
     },
