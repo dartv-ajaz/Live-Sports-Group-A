@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-06 04:47:49 AM",
+    "updated_at": "2026-06-06 06:58:20 AM",
     "channels": [
         {
             "id": "vip-1",
@@ -47,39 +47,46 @@
             "id": "vip-7",
             "name": "Willow Sports (1080p)",
             "logo": "https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png",
-            "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8",
+            "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8",
             "group": "VIP Cricket"
         },
         {
             "id": "vip-8",
+            "name": "Willow Sports (1080p)",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png",
+            "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8",
+            "group": "VIP Cricket"
+        },
+        {
+            "id": "vip-9",
             "name": "Star Sports 1 HD",
             "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",
             "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-9",
+            "id": "vip-10",
             "name": "Willow HD \ud83c\uddfa\ud83c\uddf8",
             "logo": " ",
             "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-10",
+            "id": "vip-11",
             "name": "PTV Sports HD \ud83c\uddf5\ud83c\uddf0",
             "logo": " ",
             "url": "https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-11",
+            "id": "vip-12",
             "name": "Willow Extra Live",
             "logo": " ",
             "url": "http://27.124.71.27/Willow_Extra/index.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-12",
+            "id": "vip-13",
             "name": "PTV Sports pk HD",
             "logo": "https://i.imgur.com/9O0jF1m.png",
             "url": "https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8",
