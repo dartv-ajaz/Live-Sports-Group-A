@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-10 10:05:32 PM",
+    "updated_at": "2026-06-11 01:04:25 AM",
     "channels": [
         {
             "id": "vip-1",
@@ -80,20 +80,34 @@
         },
         {
             "id": "vip-12",
+            "name": "PTV Sports HD \ud83c\uddf5\ud83c\uddf0",
+            "logo": "https://shorturl.at/NPoFh",
+            "url": "https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8",
+            "group": "VIP Cricket"
+        },
+        {
+            "id": "vip-13",
+            "name": "PTV Sports",
+            "logo": "https://shorturl.at/CBQJZ",
+            "url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8",
+            "group": "VIP Cricket"
+        },
+        {
+            "id": "vip-14",
+            "name": "Star Sports 1 HD",
+            "logo": " ",
+            "url": "https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8",
+            "group": "VIP Cricket"
+        },
+        {
+            "id": "vip-15",
             "name": "Willow HD \ud83c\uddfa\ud83c\uddf8",
             "logo": " ",
             "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-13",
-            "name": "PTV Sports HD \ud83c\uddf5\ud83c\uddf0",
-            "logo": " ",
-            "url": "https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-14",
+            "id": "vip-16",
             "name": "PTV Sports pk HD",
             "logo": "https://i.imgur.com/9O0jF1m.png",
             "url": "https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8",
