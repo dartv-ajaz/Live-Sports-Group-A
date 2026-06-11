@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-11 06:21:43 PM",
+    "updated_at": "2026-06-11 10:25:22 PM",
     "channels": [
         {
             "id": "vip-1",
@@ -87,30 +87,9 @@
         },
         {
             "id": "vip-13",
-            "name": "PTV Sports HD \ud83c\uddf5\ud83c\uddf0",
-            "logo": "https://shorturl.at/NPoFh",
-            "url": "https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-14",
-            "name": "PTV Sports",
-            "logo": "https://shorturl.at/CBQJZ",
-            "url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-15",
             "name": "Willow Extra Live",
             "logo": " ",
             "url": "http://27.124.71.27/Willow_Extra/index.m3u8",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-16",
-            "name": "PTV Sports pk HD",
-            "logo": "https://i.imgur.com/9O0jF1m.png",
-            "url": "https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8",
             "group": "VIP Cricket"
         }
     ]
