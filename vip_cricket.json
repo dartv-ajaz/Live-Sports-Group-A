@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-15 11:01:17 PM",
+    "updated_at": "2026-06-16 02:26:50 AM",
     "channels": [
         {
             "id": "vip-1",
@@ -83,13 +83,6 @@
             "name": "Star Sports 1 HD",
             "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",
             "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
-            "group": "VIP Cricket"
-        },
-        {
-            "id": "vip-13",
-            "name": "PTV Sports pk HD",
-            "logo": "https://i.imgur.com/9O0jF1m.png",
-            "url": "https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8",
             "group": "VIP Cricket"
         }
     ]
