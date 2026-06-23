@@ -576,12 +576,6 @@
         "status": "active"
     },
     {
-        "name": "ZEE TV HD (1080P)",
-        "url": "https://stb-air.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_ZEE_TV_HD&pass=krish-ka&uid=gana-sunega",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "ZEE TV HD (720P)",
         "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
         "category": "Indian Drama",
