@@ -618,6 +618,96 @@
         "status": "active"
     },
     {
+        "name": "COLORS BANGLA HD (720P)",
+        "url": "https://trs1.aynaott.com/colorsbangla/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "DANGAL TV (576P)",
+        "url": "https://trs1.aynaott.com/Dangal/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "DANGAL 2 (576P)",
+        "url": "https://trs1.aynaott.com/Dangal2/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS HD (720P)",
+        "url": "https://trs1.aynaott.com/colorshd/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "&PICTURES (720P)",
+        "url": "https://trs1.aynaott.com/andpictureshd/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "DD SPORTS SD (576P)",
+        "url": "https://trs1.aynaott.com/ddsports/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "ZEE TV HD (720P)",
+        "url": "https://trs1.aynaott.com/zeetvhd/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "ZEE CINEMA (720P)",
+        "url": "https://trs1.aynaott.com/ZeeCinemaHD/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "R PLUS GOLD (576P)",
+        "url": "https://trs1.aynaott.com/RplusGold/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "ALL TIME MOVIES (576P)",
+        "url": "https://trs1.aynaott.com/Dhinchaak/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "GOLDMINES (576P)",
+        "url": "https://trs1.aynaott.com/Goldmines/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "GOLDMINES MOVIES (576P)",
+        "url": "https://trs1.aynaott.com/GoldminesMovies/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "GOLDMINES BOLLYWOOD (576P)",
+        "url": "https://trs1.aynaott.com/GoldminesBollywood/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "KHUSHBOO BANGLA (576P)",
+        "url": "https://trs1.aynaott.com/Khushboo/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U KADAK (576P)",
+        "url": "https://trs1.aynaott.com/B4U_Kadak/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "A-PLUS TV (576P)",
         "url": "http://115.42.65.142:9981/stream/channelid/113328724",
         "category": "Pakistani Drama",
@@ -681,6 +771,18 @@
         "name": "TEN SPORTS PAKISTAN",
         "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
         "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "PTV SPORTS (576P)",
+        "url": "https://trs1.aynaott.com/ptvsports/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "BOL ENTERTAINMENT (576P)",
+        "url": "https://trs1.aynaott.com/BOLEntertainment/index.m3u8",
+        "category": "Pakistani Drama",
         "status": "active"
     }
 ]
