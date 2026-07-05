@@ -714,12 +714,6 @@
         "status": "active"
     },
     {
-        "name": "UNITE8 SPORTS 2 HD (1080P)",
-        "url": "http://212.102.34.8:9080/AndFlixHD/video.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
         "name": "ZEE CINEMA ME (720P)",
         "url": "http://41.205.77.102/ZEE-CINEMA/index.m3u8",
         "category": "Movies",
