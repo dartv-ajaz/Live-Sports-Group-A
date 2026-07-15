@@ -414,26 +414,8 @@
         "status": "active"
     },
     {
-        "name": "MAHAA MAX (1080P)",
-        "url": "https://d8wpu6ewxtzy0.cloudfront.net/mahaamaxx/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "MANORANJAN MOVIES (720P)",
         "url": "http://103.213.31.109:90/ManoranjanMovies/playlist.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "MAX MOVIES (1080P)",
-        "url": "https://live.maxtn.in/maxmovies/maxmovies/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "MAX MUSIC (1080P)",
-        "url": "https://live.maxtn.in/maxmusic/maxmusic/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -600,27 +582,9 @@
         "status": "active"
     },
     {
-        "name": "STV HARYANA NEWS (576P)",
-        "url": "https://mumt01.tangotv.in/STVHARYANANEWS/index.m3u8",
-        "category": "Pakistani Drama",
-        "status": "active"
-    },
-    {
         "name": "TOTAL TV HARYANA (396P)",
         "url": "https://d1msejlow1t3l4.cloudfront.net/fta/totaltv/playlist.m3u8",
         "category": "Pakistani Drama",
-        "status": "active"
-    },
-    {
-        "name": "UNITE8 SPORTS 1 HD (1080P)",
-        "url": "http://103.114.11.37:8081/UNITEDHINDI/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "UNITE8 SPORTS 2 HD",
-        "url": "https://mini.allinonereborn.fun/tata.php?id=11624",
-        "category": "Sports",
         "status": "active"
     },
     {
@@ -690,12 +654,6 @@
         "status": "active"
     },
     {
-        "name": "ZEE CINEMALU HD (1080P)",
-        "url": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "ZEE DELHI NCR HARYANA (720P)",
         "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8",
         "category": "Pakistani Drama",
@@ -723,6 +681,12 @@
         "name": "ZEE TV HD (720P)",
         "url": "https://trs1.aynaott.com/zeetvhd/index.m3u8",
         "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "GOLDMINES BOLLYWOOD",
+        "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
+        "category": "Movies",
         "status": "active"
     },
     {
