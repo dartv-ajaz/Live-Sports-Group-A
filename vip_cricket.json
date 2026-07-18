@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-18 04:54:15 AM",
+    "updated_at": "2026-07-18 06:25:40 AM",
     "channels": [
         {
             "id": "vip-1",
@@ -52,20 +52,41 @@
         },
         {
             "id": "vip-8",
+            "name": "Star Sports Select 1 HD (720p)",
+            "logo": "https://i.imgur.com/Mh9tKPx.png",
+            "url": "http://tvsen7.aynascope.net/sspts1/index.m3u8",
+            "group": "VIP Cricket"
+        },
+        {
+            "id": "vip-9",
+            "name": "Star Sports Select 2 HD (720p)",
+            "logo": "https://i.imgur.com/FtRT73R.png",
+            "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
+            "group": "VIP Cricket"
+        },
+        {
+            "id": "vip-10",
             "name": "Ten Sports Pakistan",
             "logo": "https://i.imgur.com/nnqpYNm.png",
             "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-9",
+            "id": "vip-11",
+            "name": "Willow (720p)",
+            "logo": "https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png",
+            "url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+            "group": "VIP Cricket"
+        },
+        {
+            "id": "vip-12",
             "name": "Willow Sports (1080p)",
             "logo": "https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png",
             "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-10",
+            "id": "vip-13",
             "name": "Willow Sports (1080p)",
             "logo": "https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png",
             "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8",
