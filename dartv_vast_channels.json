@@ -814,5 +814,11 @@
         "url": "http://tvsen5.aynascope.net/Ptvsports/index.m3u8",
         "category": "Sports",
         "status": "active"
+    },
+    {
+        "name": "BOL ENTERTAINMENT (720P)",
+        "url": "http://tvsen7.aynascope.net/BOLEntertainment/index.m3u8",
+        "category": "Pakistani Drama",
+        "status": "active"
     }
 ]
