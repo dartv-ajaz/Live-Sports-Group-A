@@ -240,12 +240,6 @@
         "status": "active"
     },
     {
-        "name": "COLORS HD (720P)",
-        "url": "https://trs1.aynaott.com/colorshd/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "COLORS INFINITY HD (1080P)",
         "url": "http://149.71.34.166:8002/play/a01d/index.m3u8",
         "category": "Indian Drama",
@@ -722,6 +716,12 @@
     {
         "name": "OSCAR MOVIES BHOJPURI (576P)",
         "url": "https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD HD (1080P) [NOT 24/7]",
+        "url": "http://103.253.18.58:8000/play/a00q",
         "category": "Movies",
         "status": "active"
     },
