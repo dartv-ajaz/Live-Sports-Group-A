@@ -726,6 +726,18 @@
         "status": "active"
     },
     {
+        "name": "SONY ENTERTAINMENT TELEVISION HD (1080P)",
+        "url": "http://38.96.178.205/SONYHD/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "ZEE TV (576P)",
+        "url": "http://38.96.178.205/ZEE_TV/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
         "name": "A-PLUS TV (576P)",
         "url": "http://115.42.65.142:9981/stream/channelid/113328724",
         "category": "Pakistani Drama",
