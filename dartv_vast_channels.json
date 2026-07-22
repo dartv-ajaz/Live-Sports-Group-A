@@ -156,24 +156,6 @@
         "status": "active"
     },
     {
-        "name": "COLORS (576P)",
-        "url": "http://103.72.101.252:8080/live/1368.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS (576P)",
-        "url": "http://103.229.254.25:7001/play/a077/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS BANGLA (576P)",
-        "url": "http://103.72.101.252:8080/live/1369.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "COLORS BANGLA CINEMA (576P)",
         "url": "http://103.72.101.252:8080/live/1657.m3u8",
         "category": "Indian Drama",
@@ -655,12 +637,6 @@
     },
     {
         "name": "ZEE TV HD (720P)",
-        "url": "http://41.205.77.102/ZEE-TV/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "ZEE TV HD (720P)",
         "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
         "category": "Indian Drama",
         "status": "active"
@@ -728,12 +704,6 @@
     {
         "name": "SONY ENTERTAINMENT TELEVISION HD (1080P)",
         "url": "http://38.96.178.205/SONYHD/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "ZEE TV (576P)",
-        "url": "http://38.96.178.205/ZEE_TV/index.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
