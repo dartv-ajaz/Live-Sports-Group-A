@@ -808,5 +808,11 @@
         "url": "http://tvsen7.aynascope.net/BOLEntertainment/index.m3u8",
         "category": "Pakistani Drama",
         "status": "active"
+    },
+    {
+        "name": "PTV SPORTS (720P)",
+        "url": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
+        "category": "Sports",
+        "status": "active"
     }
 ]
