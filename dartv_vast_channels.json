@@ -814,5 +814,17 @@
         "url": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
         "category": "Sports",
         "status": "active"
+    },
+    {
+        "name": "M SPORTS (1080P)",
+        "url": "https://cdn.rabta.stream/M-Sports/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "A-PLUS TV",
+        "url": "http://103.86.135.164:9981/stream/channelid/1522598263?ticket=8F210F02E7EF3471D45EFD9B293E0E07CE3532BF&profile=pass",
+        "category": "Pakistani Drama",
+        "status": "active"
     }
 ]
