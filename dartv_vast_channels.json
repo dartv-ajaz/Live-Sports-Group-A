@@ -432,12 +432,6 @@
         "status": "active"
     },
     {
-        "name": "ROJA MOVIES (1080P)",
-        "url": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "SHUBH CINEMA TV (720P)",
         "url": "https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8",
         "category": "Movies",
