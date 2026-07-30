@@ -480,12 +480,6 @@
         "status": "active"
     },
     {
-        "name": "STAR MAA GOLD (576P)",
-        "url": "http://103.121.6.5:8000/play/a063/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "STAR MOVIES HD (1080P)",
         "url": "http://149.71.34.166:8000/play/a01f/index.m3u8",
         "category": "Movies",
@@ -590,12 +584,6 @@
     {
         "name": "ZEE CINEMA HD (1080P)",
         "url": "http://103.72.101.252:8080/live/165.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "ZEE CINEMALU (576P)",
-        "url": "http://103.72.101.252:8080/live/413.m3u8",
         "category": "Movies",
         "status": "active"
     },
