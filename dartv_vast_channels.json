@@ -684,6 +684,24 @@
         "status": "active"
     },
     {
+        "name": "B4U MUSIC APAC (720P)",
+        "url": "https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U MOVIES APAC (720P)",
+        "url": "https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "ZEE CINEMA ME (432P) [GEO-BLOCKED]",
+        "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "A-PLUS TV (576P)",
         "url": "http://115.42.65.142:9981/stream/channelid/113328724",
         "category": "Pakistani Drama",
