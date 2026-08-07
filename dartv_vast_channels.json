@@ -264,12 +264,6 @@
         "status": "active"
     },
     {
-        "name": "COLORS TAMIL HD (1080P)",
-        "url": "http://103.72.101.252:8080/live/429.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "DANGAL 2 (720P)",
         "url": "http://103.213.31.109:90/Dangal2/playlist.m3u8",
         "category": "Indian Drama",
@@ -546,12 +540,6 @@
         "status": "active"
     },
     {
-        "name": "ZEE ACTION (576P)",
-        "url": "http://103.72.101.252:8080/live/488.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "ZEE BOLLYMOVIES (1080P) [GEO-BLOCKED]",
         "url": "https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8",
         "category": "Movies",
@@ -705,6 +693,12 @@
         "name": "STAR SPORTS 2 HINDI (720P)",
         "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
         "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "ETV CINEMA (396P)",
+        "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+        "category": "Movies",
         "status": "active"
     },
     {
