@@ -96,18 +96,6 @@
         "status": "active"
     },
     {
-        "name": "B4U MOVIES (1080P) [GEO-BLOCKED]",
-        "url": "https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "B4U MOVIES (720P)",
-        "url": "http://103.213.31.109:90/B4UMovies/playlist.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "B4U MOVIES",
         "url": "https://cdn-2.pishow.tv/live/419/master.m3u8",
         "category": "Movies",
@@ -726,32 +714,14 @@
         "status": "active"
     },
     {
+        "name": "UTV PALAKKAD (1080P)",
+        "url": "https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "A-PLUS TV (576P)",
         "url": "http://115.42.65.142:9981/stream/channelid/113328724",
-        "category": "Pakistani Drama",
-        "status": "active"
-    },
-    {
-        "name": "ARY NEWS (576P)",
-        "url": "http://115.42.65.142:9981/stream/channelid/322092446",
-        "category": "Pakistani Drama",
-        "status": "active"
-    },
-    {
-        "name": "ARY ZINDAGI (576P)",
-        "url": "http://115.42.65.142:9981/stream/channelid/1064070262",
-        "category": "Pakistani Drama",
-        "status": "active"
-    },
-    {
-        "name": "BOL ENTERTAINMENT (1080P)",
-        "url": "https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8",
-        "category": "Pakistani Drama",
-        "status": "active"
-    },
-    {
-        "name": "BOL ENTERTAINMENT (576P)",
-        "url": "https://trs1.aynaott.com/BOLEntertainment/index.m3u8",
         "category": "Pakistani Drama",
         "status": "active"
     },
@@ -813,12 +783,6 @@
         "name": "PTV SPORTS (720P)",
         "url": "http://tvsen5.aynascope.net/Ptvsports/index.m3u8",
         "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "BOL ENTERTAINMENT (720P)",
-        "url": "http://tvsen7.aynascope.net/BOLEntertainment/index.m3u8",
-        "category": "Pakistani Drama",
         "status": "active"
     },
     {
