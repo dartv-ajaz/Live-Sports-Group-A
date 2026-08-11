@@ -192,12 +192,6 @@
         "status": "active"
     },
     {
-        "name": "COLORS GUJARATI (1080P)",
-        "url": "http://103.72.101.252:8080/live/196.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "COLORS GUJARATI CINEMA (360P)",
         "url": "http://103.72.101.252:8080/live/1324.m3u8",
         "category": "Indian Drama",
@@ -662,6 +656,12 @@
     {
         "name": "ZEE TV HD (720P)",
         "url": "https://trs1.aynaott.com/zeetvhd/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS GUJARATI (396P)",
+        "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
