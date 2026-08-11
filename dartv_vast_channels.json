@@ -19,12 +19,6 @@
     },
     {
         "name": "ALL TIME MOVIES (576P)",
-        "url": "https://mumt03.tangotv.in/Dsly5z3HALLTIMEMOVIES/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "ALL TIME MOVIES (576P)",
         "url": "https://trs1.aynaott.com/Dhinchaak/index.m3u8",
         "category": "Movies",
         "status": "active"
@@ -102,8 +96,20 @@
         "status": "active"
     },
     {
+        "name": "B4U MOVIES APAC (720P)",
+        "url": "https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "B4U MUSIC (576P)",
         "url": "https://cdn-2.pishow.tv/live/415/master.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U MUSIC APAC (720P)",
+        "url": "https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -146,12 +152,6 @@
     {
         "name": "COLORS BANGLA HD (1080P)",
         "url": "http://103.72.101.252:8080/live/756.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS BANGLA HD (1080P)",
-        "url": "http://103.229.254.25:7001/play/a0ds/index.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
@@ -240,6 +240,18 @@
         "status": "active"
     },
     {
+        "name": "COLORS MENA HD (720P)",
+        "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS RISHTEY AMERICAS (396P)",
+        "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
         "name": "COLORS RISHTEY ASIA (1080P)",
         "url": "http://103.72.101.252:8080/live/279.m3u8",
         "category": "Indian Drama",
@@ -248,6 +260,12 @@
     {
         "name": "COLORS SUPER (1080P)",
         "url": "http://103.72.101.252:8080/live/785.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS TAMIL HD (720P)",
+        "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
@@ -300,6 +318,12 @@
         "status": "active"
     },
     {
+        "name": "ETV CINEMA (396P)",
+        "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "ETV CINEMA HD (1080P)",
         "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
         "category": "Movies",
@@ -330,6 +354,12 @@
         "status": "active"
     },
     {
+        "name": "GOLDMINES BOLLYWOOD",
+        "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "GOLDMINES MOVIES (720P)",
         "url": "http://103.213.31.109:90/GoldminesMovies/playlist.m3u8",
         "category": "Movies",
@@ -338,12 +368,6 @@
     {
         "name": "GOLDMINES MOVIES (576P)",
         "url": "https://trs1.aynaott.com/GoldminesMovies/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "JALSHA MOVIES HD (1080P)",
-        "url": "http://103.229.254.25:7001/play/a0dt/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -384,6 +408,12 @@
         "status": "active"
     },
     {
+        "name": "OSCAR MOVIES BHOJPURI (576P)",
+        "url": "https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "PTC PUNJABI GOLD (1080P)",
         "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8",
         "category": "Movies",
@@ -415,20 +445,26 @@
     },
     {
         "name": "SONY ENTERTAINMENT TELEVISION HD (1080P)",
+        "url": "http://38.96.178.205/SONYHD/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "SONY ENTERTAINMENT TELEVISION HD (1080P)",
         "url": "http://stb-air.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&pass=krish-ka&uid=gana-sunega",
         "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "SONY MAX 1 (720P)",
+        "url": "http://103.159.180.34:5001/live/3418.m3u8",
+        "category": "Movies",
         "status": "active"
     },
     {
         "name": "SONY MAX 2 (576P)",
         "url": "http://149.71.34.166:8000/play/a00z/index.m3u8",
         "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "SONY SPORTS TEN 3 HINDI (576P)",
-        "url": "http://103.229.254.25:7001/play/a09q/index.m3u8",
-        "category": "Sports",
         "status": "active"
     },
     {
@@ -440,6 +476,12 @@
     {
         "name": "STAR GOLD 2 (576P)",
         "url": "http://103.253.18.58:8000/play/a00r",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD HD (1080P) [NOT 24/7]",
+        "url": "http://103.253.18.58:8000/play/a00q",
         "category": "Movies",
         "status": "active"
     },
@@ -481,6 +523,12 @@
     },
     {
         "name": "STAR SPORTS 1 HD (1080P)",
+        "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 1 HD (1080P)",
         "url": "http://103.253.18.58:8000/play/a00m",
         "category": "Sports",
         "status": "active"
@@ -499,13 +547,37 @@
     },
     {
         "name": "STAR SPORTS 2 HD (720P)",
+        "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 2 HD (720P)",
         "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 2 HINDI (720P)",
+        "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
         "category": "Sports",
         "status": "active"
     },
     {
         "name": "STAR SPORTS 2 HINDI HD (1080P)",
         "url": "http://103.157.248.140:8000/play/a01m/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS SELECT 1 HD (720P)",
+        "url": "http://tvsen7.aynascope.net/sspts1/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS SELECT 2 HD (720P)",
+        "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
         "category": "Sports",
         "status": "active"
     },
@@ -522,8 +594,8 @@
         "status": "active"
     },
     {
-        "name": "ZB CINEMA (720P)",
-        "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
+        "name": "UTV PALAKKAD (1080P)",
+        "url": "https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -558,8 +630,20 @@
         "status": "active"
     },
     {
+        "name": "ZEE CINEMA APAC (720P)",
+        "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "ZEE CINEMA HD (1080P)",
         "url": "http://103.72.101.252:8080/live/165.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "ZEE CINEMA ME (432P) [GEO-BLOCKED]",
+        "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd",
         "category": "Movies",
         "status": "active"
     },
@@ -577,151 +661,19 @@
     },
     {
         "name": "ZEE TV HD (720P)",
-        "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "ZEE TV HD (720P)",
         "url": "https://trs1.aynaott.com/zeetvhd/index.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
     {
-        "name": "GOLDMINES BOLLYWOOD",
-        "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 1 HD (720P)",
-        "url": "http://tvsen5.aynascope.net/c9EpzZ6fQBJ3/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 2 HD (720P)",
-        "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "SONY ENTERTAINMENT TELEVISION HD (720P)",
-        "url": "http://tvsen5.aynascope.net/Wfn4bVp3dLgA/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS BANGLA HD (720P)",
-        "url": "http://tvsen5.aynascope.net/u3LkNQ7UHhFX/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS SELECT 1 HD (720P)",
-        "url": "http://tvsen7.aynascope.net/sspts1/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS SELECT 2 HD (720P)",
-        "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "OSCAR MOVIES BHOJPURI (576P)",
-        "url": "https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR GOLD HD (1080P) [NOT 24/7]",
-        "url": "http://103.253.18.58:8000/play/a00q",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "SONY ENTERTAINMENT TELEVISION HD (1080P)",
-        "url": "http://38.96.178.205/SONYHD/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "SONY MAX 1 (720P)",
-        "url": "http://103.159.180.34:5001/live/3418.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 1 HD (1080P)",
-        "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "B4U MUSIC APAC (720P)",
-        "url": "https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "B4U MOVIES APAC (720P)",
-        "url": "https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "ZEE CINEMA ME (432P) [GEO-BLOCKED]",
-        "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 2 HINDI (720P)",
-        "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "ETV CINEMA (396P)",
-        "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "COLORS TAMIL HD (720P)",
-        "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS RISHTEY AMERICAS (396P)",
-        "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS MENA HD (720P)",
-        "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "ZEE CINEMA APAC (720P)",
-        "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "UTV PALAKKAD (1080P)",
-        "url": "https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "A-PLUS TV (576P)",
         "url": "http://115.42.65.142:9981/stream/channelid/113328724",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "A-PLUS TV",
+        "url": "http://103.86.135.164:9981/stream/channelid/1522598263?profile=pass&ticket=8F210F02E7EF3471D45EFD9B293E0E07CE3532BF",
         "category": "Pakistani Drama",
         "status": "active"
     },
@@ -744,6 +696,12 @@
         "status": "active"
     },
     {
+        "name": "M SPORTS (1080P)",
+        "url": "https://cdn.rabta.stream/M-Sports/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
         "name": "MINIMAX (360P)",
         "url": "https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8",
         "category": "Movies",
@@ -762,8 +720,8 @@
         "status": "active"
     },
     {
-        "name": "PTV SPORTS (576P)",
-        "url": "https://trs1.aynaott.com/ptvsports/index.m3u8",
+        "name": "PTV SPORTS (720P)",
+        "url": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
         "category": "Sports",
         "status": "active"
     },
@@ -777,30 +735,6 @@
         "name": "TEN SPORTS PAKISTAN",
         "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
         "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "PTV SPORTS (720P)",
-        "url": "http://tvsen5.aynascope.net/Ptvsports/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "PTV SPORTS (720P)",
-        "url": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "M SPORTS (1080P)",
-        "url": "https://cdn.rabta.stream/M-Sports/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "A-PLUS TV",
-        "url": "http://103.86.135.164:9981/stream/channelid/1522598263?ticket=8F210F02E7EF3471D45EFD9B293E0E07CE3532BF&profile=pass",
-        "category": "Pakistani Drama",
         "status": "active"
     }
 ]

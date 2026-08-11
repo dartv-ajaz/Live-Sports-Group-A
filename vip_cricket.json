@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-08-11 05:39:24 PM",
+    "updated_at": "2026-08-11 07:24:04 PM",
     "channels": [
         {
             "id": "vip-1",
@@ -33,7 +33,7 @@
             "id": "vip-5",
             "name": "Star Sports 1 HD (1080p)",
             "logo": "https://i.imgur.com/E5jjKHI.png",
-            "url": "http://103.253.18.58:8000/play/a00m",
+            "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
             "group": "VIP Cricket"
         },
         {
@@ -54,7 +54,7 @@
             "id": "vip-8",
             "name": "Star Sports 2 HD (720p)",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
-            "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8",
+            "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
             "group": "VIP Cricket"
         },
         {
