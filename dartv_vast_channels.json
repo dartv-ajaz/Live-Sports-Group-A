@@ -1,11 +1,5 @@
 [
     {
-        "name": "&PICTURES (720P)",
-        "url": "https://trs1.aynaott.com/andpictureshd/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "&PICTURES HD (1080P)",
         "url": "http://103.72.101.252:8080/live/185.m3u8",
         "category": "Movies",
@@ -15,12 +9,6 @@
         "name": "AARYAA TV (1080P)",
         "url": "https://stream.ottlive.co.in/aryatvtamil/index.m3u8",
         "category": "Pakistani Drama",
-        "status": "active"
-    },
-    {
-        "name": "ALL TIME MOVIES (576P)",
-        "url": "https://trs1.aynaott.com/Dhinchaak/index.m3u8",
-        "category": "Movies",
         "status": "active"
     },
     {
@@ -74,12 +62,6 @@
     {
         "name": "B4U KADAK (720P)",
         "url": "http://103.213.31.109:90/B4UKadak/playlist.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "B4U KADAK (576P)",
-        "url": "https://trs1.aynaott.com/B4U_Kadak/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -152,12 +134,6 @@
     {
         "name": "COLORS BANGLA HD (1080P)",
         "url": "http://103.72.101.252:8080/live/756.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS BANGLA HD (720P)",
-        "url": "https://trs1.aynaott.com/colorsbangla/index.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
@@ -276,12 +252,6 @@
         "status": "active"
     },
     {
-        "name": "DANGAL 2 (576P)",
-        "url": "https://trs1.aynaott.com/Dangal2/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "DANGAL TV (720P)",
         "url": "http://103.213.31.109:90/Dangal/playlist.m3u8",
         "category": "Indian Drama",
@@ -294,20 +264,8 @@
         "status": "active"
     },
     {
-        "name": "DANGAL TV (576P)",
-        "url": "https://trs1.aynaott.com/Dangal/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "DD SPORTS SD (720P)",
         "url": "http://103.213.31.109:90/ZeeAnmolCinema2/playlist.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "DD SPORTS SD (576P)",
-        "url": "https://trs1.aynaott.com/ddsports/index.m3u8",
         "category": "Sports",
         "status": "active"
     },
@@ -324,12 +282,6 @@
         "status": "active"
     },
     {
-        "name": "GOLDMINES (576P)",
-        "url": "https://trs1.aynaott.com/Goldmines/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "GOLDMINES 2 (576P)",
         "url": "https://cdn-2.pishow.tv/live/1460/master.m3u8",
         "category": "Movies",
@@ -338,12 +290,6 @@
     {
         "name": "GOLDMINES BOLLYWOOD (576P)",
         "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "GOLDMINES BOLLYWOOD (576P)",
-        "url": "https://trs1.aynaott.com/GoldminesBollywood/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -360,20 +306,8 @@
         "status": "active"
     },
     {
-        "name": "GOLDMINES MOVIES (576P)",
-        "url": "https://trs1.aynaott.com/GoldminesMovies/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "JAYA MAX (576P)",
         "url": "http://103.72.101.252:8080/live/420.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "KHUSHBOO BANGLA (576P)",
-        "url": "https://trs1.aynaott.com/Khushboo/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -422,12 +356,6 @@
     {
         "name": "PUBLIC MOVIES (576P)",
         "url": "https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "R PLUS GOLD (576P)",
-        "url": "https://trs1.aynaott.com/RplusGold/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -606,12 +534,6 @@
         "status": "active"
     },
     {
-        "name": "ZEE CINEMA (720P)",
-        "url": "https://trs1.aynaott.com/ZeeCinemaHD/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "ZEE CINEMA (576P)",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8",
         "category": "Movies",
@@ -651,12 +573,6 @@
         "name": "ZEE PUNJAB HARYANA HIMACHAL (720P)",
         "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8",
         "category": "Pakistani Drama",
-        "status": "active"
-    },
-    {
-        "name": "ZEE TV HD (720P)",
-        "url": "https://trs1.aynaott.com/zeetvhd/index.m3u8",
-        "category": "Indian Drama",
         "status": "active"
     },
     {
