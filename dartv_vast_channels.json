@@ -582,6 +582,162 @@
         "status": "active"
     },
     {
+        "name": "DANGAL TV (576P)",
+        "url": "https://streams.tangotv.in/DANGAL/ORIGIN/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "DANGAL 2 (576P)",
+        "url": "https://streams.tangotv.in/DANGAL2/ORIGIN/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "ALL TIME MOVIES (576P)",
+        "url": "https://streams.tangotv.in/ALLTIMEMOVIES/ORIGIN/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "GOLDMINES (576P)",
+        "url": "https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "GOLDMINES MOVIES (576P)",
+        "url": "https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "GOLDMINES BOLLYWOOD (576P)",
+        "url": "https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U KADAK (576P)",
+        "url": "https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U MOVIES (576P)",
+        "url": "https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "MANORANJAN MOVIES (576P)",
+        "url": "https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U MUSIC (576P)",
+        "url": "https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "BHARAT EXPRESS (576P)",
+        "url": "https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "SWARAJ EXPRESS SMBC (576P)",
+        "url": "https://mumt04.tangotv.in/m18aqlK4SWARAJEXPRESS/index.m3u8",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "PARAS GOLD (576P)",
+        "url": "https://mumt04.tangotv.in/m18aqlK4PARASGOLD/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "PTC PUNJABI GOLD (576P)",
+        "url": "https://streams.tangotv.in/PTCPUNJABIGOLD/ORIGIN/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U BHOJPURI (576P)",
+        "url": "https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "BHOJPURI CINEMA (576P)",
+        "url": "https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "MAHAA MAX (576P)",
+        "url": "https://mumt03.tangotv.in/Dsly5z3HMAHAAMAX/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "KHUSHBOO BANGLA (576P)",
+        "url": "https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "&PICTURES (720P)",
+        "url": "https://tvsen3.aynaott.com/jzT482XQ/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U KADAK (576P)",
+        "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U MUSIC (576P)",
+        "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "DANGAL TV (576P)",
+        "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "DANGAL 2 (576P)",
+        "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "GOLDMINES (576P)",
+        "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "GOLDMINES MOVIES (576P)",
+        "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "GOLDMINES BOLLYWOOD (576P)",
+        "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "A-PLUS TV (576P)",
         "url": "http://115.42.65.142:9981/stream/channelid/113328724",
         "category": "Pakistani Drama",
