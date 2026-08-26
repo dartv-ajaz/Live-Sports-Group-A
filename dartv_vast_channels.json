@@ -768,6 +768,18 @@
         "status": "active"
     },
     {
+        "name": "COLORS KANNADA HD (1080I)",
+        "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "YET MAX (720P)",
+        "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "A-PLUS TV (576P)",
         "url": "http://115.42.65.142:9981/stream/channelid/113328724",
         "category": "Pakistani Drama",
