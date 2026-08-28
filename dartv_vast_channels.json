@@ -868,5 +868,17 @@
         "url": "https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8",
         "category": "Pakistani Drama",
         "status": "active"
+    },
+    {
+        "name": "M SPORTS",
+        "url": "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "M SPORTS",
+        "url": "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8",
+        "category": "Sports",
+        "status": "active"
     }
 ]
