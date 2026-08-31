@@ -1,11 +1,5 @@
 [
     {
-        "name": "&PICTURES HD (1080P)",
-        "url": "http://103.72.101.252:8080/live/185.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "AARYAA TV (1080P)",
         "url": "https://stream.ottlive.co.in/aryatvtamil/index.m3u8",
         "category": "Pakistani Drama",
@@ -56,12 +50,6 @@
     {
         "name": "B4U KADAK (1080P) [NOT 24/7]",
         "url": "https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "B4U KADAK (720P)",
-        "url": "http://103.213.31.109:90/B4UKadak/playlist.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -396,44 +384,8 @@
         "status": "active"
     },
     {
-        "name": "STAR GOLD 2 (576P)",
-        "url": "http://103.253.18.58:8000/play/a00r",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR GOLD HD (1080P) [NOT 24/7]",
-        "url": "http://103.253.18.58:8000/play/a00q",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR GOLD ROMANCE (576P)",
-        "url": "http://103.253.18.58:8000/play/a017",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR GOLD SELECT HD (1080P)",
-        "url": "http://103.253.18.58:8000/play/a02u",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "STAR GOLD SELECT HD (1080P)",
         "url": "http://149.71.34.166:8000/play/a01d/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR MOVIES HD (1080P)",
-        "url": "http://149.71.34.166:8000/play/a01f/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR MOVIES SELECT HD (1080P)",
-        "url": "http://149.71.34.166:8000/play/a01g/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -879,6 +831,12 @@
         "name": "M SPORTS",
         "url": "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8",
         "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "BOL ENTERTAINMENT HD",
+        "url": "https://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8",
+        "category": "Pakistani Drama",
         "status": "active"
     }
 ]
