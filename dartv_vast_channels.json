@@ -36,20 +36,8 @@
         "status": "active"
     },
     {
-        "name": "B4U MOVIES APAC (720P)",
-        "url": "https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "B4U MUSIC (576P)",
         "url": "https://cdn-2.pishow.tv/live/415/master.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "B4U MUSIC APAC (720P)",
-        "url": "https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -67,12 +55,6 @@
     },
     {
         "name": "BHOJPURI CINEMA (720P)",
-        "url": "http://103.213.31.109:90/BhojpuriCinema/playlist.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "BHOJPURI CINEMA (720P)",
         "url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
         "category": "Movies",
         "status": "active"
@@ -81,72 +63,6 @@
         "name": "BHOJPURI CINEMA",
         "url": "https://cdn-4.pishow.tv/live/1033/master.m3u8",
         "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "COLORS BANGLA CINEMA (576P)",
-        "url": "http://103.72.101.252:8080/live/1657.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS BANGLA HD (1080P)",
-        "url": "http://103.72.101.252:8080/live/756.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS CINEPLEX (576P)",
-        "url": "http://103.122.249.134:8000/play/a058",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS CINEPLEX BOLLYWOOD (576P)",
-        "url": "http://103.72.101.252:8080/live/1763.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS CINEPLEX BOLLYWOOD (564P)",
-        "url": "http://103.213.31.109:90/CineplxBollywood/playlist.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS CINEPLEX HD (1080P)",
-        "url": "http://149.71.34.166:8000/play/a00b/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS CINEPLEX SUPERHITS (576P)",
-        "url": "http://103.72.101.252:8080/live/1450.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS GUJARATI CINEMA (360P)",
-        "url": "http://103.72.101.252:8080/live/1324.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS INFINITY HD (1080P)",
-        "url": "http://149.71.34.166:8002/play/a01d/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS MARATHI (576P)",
-        "url": "http://103.72.101.252:8080/live/1326.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS MARATHI HD (1080P)",
-        "url": "http://103.72.101.252:8080/live/755.m3u8",
-        "category": "Indian Drama",
         "status": "active"
     },
     {
@@ -162,12 +78,6 @@
         "status": "active"
     },
     {
-        "name": "COLORS RISHTEY ASIA (1080P)",
-        "url": "http://103.72.101.252:8080/live/279.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "COLORS TAMIL HD (720P)",
         "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8",
         "category": "Indian Drama",
@@ -175,19 +85,7 @@
     },
     {
         "name": "DANGAL 2 (720P)",
-        "url": "http://103.213.31.109:90/Dangal2/playlist.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "DANGAL 2 (720P)",
         "url": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "DANGAL TV (720P)",
-        "url": "http://103.213.31.109:90/Dangal/playlist.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
@@ -662,6 +560,120 @@
     {
         "name": "STAR MAA MOVIES HD (720P)",
         "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "ALL TIME MOVIES (576P)",
+        "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "SPORTS SQUAD HARYANA (576P)",
+        "url": "http://180.188.254.253/live/SPORTSSQUADHARYANA.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "ZEE TV HD (720P) [GEO-BLOCKED]",
+        "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD HD (1080P) [GEO-BLOCKED]",
+        "url": "http://41.205.93.154/STAR-GOLD/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "COLORS BANGLA HD (1080P)",
+        "url": "http://103.165.93.31:8095/colorsBangla/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "B4U MUSIC (576P)",
+        "url": "http://66.102.126.10:8000/play/a01e/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U MOVIES (576P)",
+        "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "COLORS CINEPLEX BOLLYWOOD (576P)",
+        "url": "http://202.70.146.135:8000/play/a058/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD THRILLS (576P)",
+        "url": "http://66.102.126.10:8000/play/a00c/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD ROMANCE (576P)",
+        "url": "http://66.102.126.10:8000/play/a00r/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD 2 (576P)",
+        "url": "http://66.102.126.10:8000/play/a00g/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD HD (1080P)",
+        "url": "http://66.102.126.10:8000/play/a00f/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR MOVIES HD (1080P)",
+        "url": "http://66.102.126.10:8000/play/a021/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR MOVIES SELECT HD (1080P)",
+        "url": "http://66.102.126.10:8000/play/a020/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD SELECT HD (1080P)",
+        "url": "http://66.102.126.10:8000/play/a01s/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "COLORS HD (1080P)",
+        "url": "http://66.102.126.10:8000/play/a00a/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS INFINITY HD (1080P)",
+        "url": "http://66.102.126.10:8000/play/a014/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS CINEPLEX HD (1080P)",
+        "url": "http://66.102.126.10:8000/play/a076/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD 2 HD (1080P)",
+        "url": "http://66.102.126.10:8000/play/a077/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
