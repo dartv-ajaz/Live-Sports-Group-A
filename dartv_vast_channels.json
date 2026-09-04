@@ -108,12 +108,6 @@
         "status": "active"
     },
     {
-        "name": "GOLDMINES 2 (576P)",
-        "url": "https://cdn-2.pishow.tv/live/1460/master.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "GOLDMINES BOLLYWOOD (576P)",
         "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
         "category": "Movies",
@@ -674,6 +668,18 @@
     {
         "name": "STAR GOLD 2 HD (1080P)",
         "url": "http://66.102.126.10:8000/play/a077/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "COLORS CINEPLEX BOLLYWOOD (576P) [GEO-BLOCKED]",
+        "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=946375&extension=ts&play_token=5n2Zexr7WT",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "SONY MAX (576P) [GEO-BLOCKED]",
+        "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0",
         "category": "Movies",
         "status": "active"
     },
