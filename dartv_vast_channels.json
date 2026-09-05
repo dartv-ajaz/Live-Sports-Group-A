@@ -120,12 +120,6 @@
         "status": "active"
     },
     {
-        "name": "GOLDMINES MOVIES (720P)",
-        "url": "http://103.213.31.109:90/GoldminesMovies/playlist.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "JAYA MAX (576P)",
         "url": "http://103.72.101.252:8080/live/420.m3u8",
         "category": "Movies",
