@@ -856,5 +856,11 @@
         "url": "https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8",
         "category": "Pakistani Drama",
         "status": "active"
+    },
+    {
+        "name": "A-PLUS TV",
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8",
+        "category": "Pakistani Drama",
+        "status": "active"
     }
 ]
