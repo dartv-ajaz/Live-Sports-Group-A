@@ -624,18 +624,6 @@
         "status": "active"
     },
     {
-        "name": "STAR MOVIES HD (1080P)",
-        "url": "http://66.102.126.10:8000/play/a021/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR MOVIES SELECT HD (1080P)",
-        "url": "http://66.102.126.10:8000/play/a020/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "STAR GOLD SELECT HD (1080P)",
         "url": "http://66.102.126.10:8000/play/a01s/index.m3u8",
         "category": "Movies",
@@ -756,6 +744,12 @@
         "status": "active"
     },
     {
+        "name": "COLORS MARATHI HD (720P)",
+        "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
         "name": "A-PLUS TV (576P)",
         "url": "http://115.42.65.142:9981/stream/channelid/113328724",
         "category": "Pakistani Drama",
@@ -860,6 +854,12 @@
     {
         "name": "A-PLUS TV",
         "url": "https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "HUM TV SD",
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8",
         "category": "Pakistani Drama",
         "status": "active"
     }
