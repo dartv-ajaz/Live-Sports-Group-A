@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-11 05:18:42 AM",
+    "updated_at": "2026-09-11 09:04:26 AM",
     "channels": [
         {
             "id": "vip-1",
@@ -74,7 +74,7 @@
         {
             "id": "vip-11",
             "name": "Ten Sports Pakistan",
-            "logo": "https://i.imgur.com/nnqpYNm.png",
+            "logo": "https://i.imgur.com/7qS6TcE.png",
             "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
             "group": "VIP Cricket"
         },

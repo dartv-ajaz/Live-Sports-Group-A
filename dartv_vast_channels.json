@@ -300,20 +300,8 @@
         "status": "active"
     },
     {
-        "name": "ZEE CINEMA APAC (1080P) [GEO-BLOCKED]",
-        "url": "https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "ZEE CINEMA APAC (720P)",
         "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "ZEE CINEMA HD (1080P)",
-        "url": "http://103.72.101.252:8080/live/165.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -746,6 +734,18 @@
     {
         "name": "COLORS MARATHI HD (720P)",
         "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "MH ONE MOVIES (576P)",
+        "url": "https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "SONY ENTERTAINMENT TELEVISION HD (1080P)",
+        "url": "https://cloudplay-sonyliv.pages.dev/sethd.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
