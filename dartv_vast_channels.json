@@ -684,6 +684,126 @@
         "status": "active"
     },
     {
+        "name": "BOLLYGOLD (1080P)",
+        "url": "https://jmp2.uk/stvp-IN4000600Q",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "NEWS STATE PUNJAB HARYANA HIMACHAL (1080P)",
+        "url": "https://jmp2.uk/stvp-IN300083R1",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "NH BOLLYGOLD (1080P)",
+        "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "MAHAA MAX (1080P)",
+        "url": "https://mumbai-edge.smartplaytv.in/MahaMax/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "ZEE CINEMALU HD (720P)",
+        "url": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "ETV CINEMA HD (1080P)",
+        "url": "https://mumbai-edge.smartplaytv.in/ETVCINEMA/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "DD SPORTS (720P)",
+        "url": "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "DD SPORTS SD (576P)",
+        "url": "https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "KHUSHBOO BANGLA (576P) [GEO-BLOCKED]",
+        "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "DANGAL TV (576P)",
+        "url": "https://mumt04.tangotv.in/m18aqlK4DANGAL/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "DANGAL 2 (576P)",
+        "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "B4U MOVIES (576P)",
+        "url": "https://mumt06.tangotv.in/qYyB8fXVB4UMOVIES/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U KADAK (576P)",
+        "url": "https://mumt06.tangotv.in/qYyB8fXVB4UKADAK/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U MUSIC (576P)",
+        "url": "https://mumt04.tangotv.in/m18aqlK4B4UMUSIC/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "GOLDMINES (576P)",
+        "url": "https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "GOLDMINES MOVIES (576P)",
+        "url": "https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "GOLDMINES 2 (576P)",
+        "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U BHOJPURI (576P)",
+        "url": "https://mumt05.tangotv.in/87NeALx2B4UBHOJPURI/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "BHOJPURI CINEMA (576P)",
+        "url": "https://mumt05.tangotv.in/87NeALx2BHOJPURICINEMA/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "PTC PUNJABI GOLD (576P)",
+        "url": "https://mumt04.tangotv.in/m18aqlK4PTCPUNJABIGOLD/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "A-PLUS TV (576P)",
         "url": "http://115.42.65.142:9981/stream/channelid/113328724",
         "category": "Pakistani Drama",
