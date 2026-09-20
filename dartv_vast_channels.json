@@ -120,18 +120,6 @@
         "status": "active"
     },
     {
-        "name": "JAYA MAX (576P)",
-        "url": "http://103.72.101.252:8080/live/420.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "MANORANJAN MOVIES (720P)",
-        "url": "http://103.213.31.109:90/ManoranjanMovies/playlist.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "NEWS18 PUNJAB/HARYANA/HIMACHAL (1080P)",
         "url": "https://n18syndication.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/master.m3u8",
         "category": "Pakistani Drama",
@@ -501,12 +489,6 @@
         "name": "COLORS HD (1080P)",
         "url": "http://66.102.126.10:8000/play/a00a/index.m3u8",
         "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "STAR GOLD 2 HD (1080P)",
-        "url": "http://66.102.126.10:8000/play/a077/index.m3u8",
-        "category": "Movies",
         "status": "active"
     },
     {
