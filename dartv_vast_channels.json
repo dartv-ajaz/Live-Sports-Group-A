@@ -162,12 +162,6 @@
         "status": "active"
     },
     {
-        "name": "STAR SPORTS 1 HINDI (576P)",
-        "url": "http://103.253.18.58:8000/play/a03o",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
         "name": "STAR SPORTS 2 HD (720P)",
         "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
         "category": "Sports",
@@ -176,12 +170,6 @@
     {
         "name": "STAR SPORTS 2 HINDI (720P)",
         "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 2 HINDI HD (1080P)",
-        "url": "http://103.157.248.140:8000/play/a01m/index.m3u8",
         "category": "Sports",
         "status": "active"
     },
@@ -212,12 +200,6 @@
     {
         "name": "ZEE CINEMA APAC (720P)",
         "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "ZEE CINEMA ME (432P) [GEO-BLOCKED]",
-        "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd",
         "category": "Movies",
         "status": "active"
     },
@@ -296,12 +278,6 @@
     {
         "name": "BHARAT EXPRESS (576P)",
         "url": "https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8",
-        "category": "Pakistani Drama",
-        "status": "active"
-    },
-    {
-        "name": "SWARAJ EXPRESS SMBC (576P)",
-        "url": "https://mumt04.tangotv.in/m18aqlK4SWARAJEXPRESS/index.m3u8",
         "category": "Pakistani Drama",
         "status": "active"
     },
@@ -441,12 +417,6 @@
         "name": "ALL TIME MOVIES (576P)",
         "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
         "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "SPORTS SQUAD HARYANA (576P)",
-        "url": "http://180.188.254.253/live/SPORTSSQUADHARYANA.m3u8",
-        "category": "Sports",
         "status": "active"
     },
     {
@@ -777,6 +747,12 @@
         "name": "PTC PUNJABI GOLD (576P)",
         "url": "https://mumt04.tangotv.in/m18aqlK4PTCPUNJABIGOLD/index.m3u8",
         "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 2 TELUGU HD (576P)",
+        "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
+        "category": "Sports",
         "status": "active"
     },
     {
