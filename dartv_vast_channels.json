@@ -732,6 +732,318 @@
         "status": "active"
     },
     {
+        "name": "B4U MUSIC (1080P)",
+        "url": "https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U MUSIC (1080P)",
+        "url": "https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD (576P)",
+        "url": "http://51.75.127.199:3141/stargold/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 1 (576P)",
+        "url": "http://51.75.127.199:3141/starsports1/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 2 (576P)",
+        "url": "http://51.75.127.199:3141/starsports2/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "ZEE TV (576P)",
+        "url": "http://51.75.127.199:3141/zeetv/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "STAR BHARAT (576P)",
+        "url": "http://51.75.127.199:3141/starbharat/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "STAR UTSAV MOVIES (576P)",
+        "url": "http://51.75.127.199:3141/starutsavmovies/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "JALSHA MOVIES (576P)",
+        "url": "http://51.75.127.199:3141/jalshamovies/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "ASIANET MOVIES (576P)",
+        "url": "http://51.75.127.199:3141/asianetmovies/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD 2 (576P)",
+        "url": "http://51.75.127.199:3141/stargold2/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR MAA MOVIES (576P)",
+        "url": "http://51.75.127.199:3141/starmaamovies/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR MAA GOLD (576P)",
+        "url": "http://51.75.127.199:3141/starmaagold/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS KHEL (576P)",
+        "url": "http://51.75.127.199:3141/starsportskhel/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "B4U KADAK (576P)",
+        "url": "http://51.75.127.199:3141/b4ukadak/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U BHOJPURI PLUS (1080P)",
+        "url": "http://51.75.127.199:3141/b4ubhojpuri/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "PTC PUNJABI GOLD (576P)",
+        "url": "http://51.75.127.199:3141/ptcpunjabigold/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "COLORS BANGLA CINEMA (576P)",
+        "url": "http://51.75.127.199:3141/colorsbanglacinema/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS KANNADA CINEMA (576P)",
+        "url": "http://51.75.127.199:3141/colorskannadacinema/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS GUJARATI CINEMA (576P)",
+        "url": "http://51.75.127.199:3141/colorsgujaraticinema/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "ZEE CINEMALU HD (1080P)",
+        "url": "http://51.75.127.199:3141/zeecinemaluhd/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "ETV CINEMA HD (1080P)",
+        "url": "http://51.75.127.199:3141/etvcinemahd/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "UNITE8 SPORTS 1 HD (1080P)",
+        "url": "http://51.75.127.199:3141/zeecafehd/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "UNITE8 SPORTS 2 HD (1080P)",
+        "url": "http://51.75.127.199:3141/andflixhd/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "COLORS CINEPLEX HD (1080P)",
+        "url": "http://51.75.127.199:3141/colorscineplexhd/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS CINEPLEX SUPERHITS (576P)",
+        "url": "http://51.75.127.199:3141/colorscineplexsuperhit/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS CINEPLEX BOLLYWOOD (576P)",
+        "url": "http://51.75.127.199:3141/colorscineplexbollywood/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "STAR BHARAT HD (1080P)",
+        "url": "http://51.75.127.199:3141/starbharathd/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS TAMIL (576P)",
+        "url": "http://51.75.127.199:3141/colorstamil/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "ARYAN TV NATIONAL (576P)",
+        "url": "http://51.75.127.199:3141/aryantvnational/index.m3u8",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "BHARAT EXPRESS (576P)",
+        "url": "http://51.75.127.199:3141/bharatexpress/index.m3u8",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "SIDHARTH GOLD (576P)",
+        "url": "http://51.75.127.199:3141/sidharthgold/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "R PLUS GOLD (576P)",
+        "url": "http://51.75.127.199:3141/rplusgold/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "TOTAL TV HARYANA (576P)",
+        "url": "http://51.75.127.199:3141/totaltvharyana/index.m3u8",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "PUBLIC MOVIES (576P)",
+        "url": "http://51.75.127.199:3141/publicmovies/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STV HARYANA NEWS (576P)",
+        "url": "http://51.75.127.199:3141/stvharyananews/index.m3u8",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "EXPRESS NEWS (576P)",
+        "url": "http://51.75.127.199:3141/expressnews/index.m3u8",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS BANGLA (576P)",
+        "url": "http://51.75.127.199:3141/colorsbanglasd/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS KANNADA (576P)",
+        "url": "http://51.75.127.199:3141/colorskannadasd/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS (576P)",
+        "url": "http://51.75.127.199:3141/colorssd/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS INFINITY (576P)",
+        "url": "http://51.75.127.199:3141/colorsinfinitysd/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS INFINITY HD (1080P)",
+        "url": "http://51.75.127.199:3141/colorsinfinityhd/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS MARATHI (576P)",
+        "url": "http://51.75.127.199:3141/colorsmarathisd/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD SELECT (576P)",
+        "url": "http://51.75.127.199:3141/stargoldselect/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD SELECT HD (1080P)",
+        "url": "http://51.75.127.199:3141/stargoldselecthd/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR MOVIES (576P)",
+        "url": "http://51.75.127.199:3141/starmovies/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR MOVIES HD (1080P)",
+        "url": "http://51.75.127.199:3141/starmovieshd/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR MOVIES SELECT HD (1080P)",
+        "url": "http://51.75.127.199:3141/starmoviesselecthd/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "CALVARY TV (576P)",
+        "url": "http://51.75.127.199:3141/calvarytv/index.m3u8",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "CALVARY TV (576P)",
+        "url": "https://cdn.pishow.tv/ott/live/963/master.m3u8",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "MAHAA MAX (576P)",
+        "url": "https://cdn.pishow.tv/ott/live/1147/master.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "DANGAL TV (576P)",
+        "url": "https://cdn.pishow.tv/ott/live/1141/master.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
         "name": "A-PLUS TV (576P)",
         "url": "http://115.42.65.142:9981/stream/channelid/113328724",
         "category": "Pakistani Drama",
