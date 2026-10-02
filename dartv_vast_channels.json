@@ -522,12 +522,6 @@
         "status": "active"
     },
     {
-        "name": "SONY SPORTS TEN 5 HD (1080P)",
-        "url": "https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
         "name": "COLORS MARATHI HD (720P)",
         "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8",
         "category": "Indian Drama",
@@ -1041,6 +1035,24 @@
         "name": "DANGAL TV (576P)",
         "url": "https://cdn.pishow.tv/ott/live/1141/master.m3u8",
         "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS CINEPLEX (576P)",
+        "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS (576P)",
+        "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "ALL TIME MOVIES (576P)",
+        "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
+        "category": "Movies",
         "status": "active"
     },
     {
