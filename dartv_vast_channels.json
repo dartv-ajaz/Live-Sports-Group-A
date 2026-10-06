@@ -438,12 +438,6 @@
         "status": "active"
     },
     {
-        "name": "COLORS CINEPLEX BOLLYWOOD (576P)",
-        "url": "http://202.70.146.135:8000/play/a058/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "COLORS HD (1080P)",
         "url": "http://66.102.126.10:8000/play/a00a/index.m3u8",
         "category": "Indian Drama",
@@ -768,12 +762,6 @@
         "status": "active"
     },
     {
-        "name": "JALSHA MOVIES (576P)",
-        "url": "http://51.75.127.199:3141/jalshamovies/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "ASIANET MOVIES (576P)",
         "url": "http://51.75.127.199:3141/asianetmovies/index.m3u8",
         "category": "Movies",
@@ -1047,6 +1035,222 @@
         "name": "ALL TIME MOVIES (576P)",
         "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
         "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR MOVIES HD (1080P)",
+        "url": "http://103.185.24.134:3001/Star-Movies/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD HD (1080P)",
+        "url": "http://103.185.24.134:3001/Star-Gold/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "SONY MAX HD (1080P)",
+        "url": "http://103.185.24.134:3001/SonyMAX/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 1 HD (1080P)",
+        "url": "http://103.185.24.134:3001/SonyTenSports1/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "JALSHA MOVIES HD (1080P)",
+        "url": "http://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "UNITE8 SPORTS 2 (576P)",
+        "url": "http://103.151.60.162:2122/play/a01m/index.m3u8?hls",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "COLORS BANGLA CINEMA (576P)",
+        "url": "http://103.151.60.162:2122/play/a02m/index.m3u8?hls",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS BANGLA HD (1080P)",
+        "url": "http://103.151.60.162:2122/play/a02o/index.m3u8?hls",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS CINEPLEX HD (1080P)",
+        "url": "http://103.151.60.162:2122/play/a02s/index.m3u8?hls",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS HD (1080P)",
+        "url": "http://103.151.60.162:2122/play/a02q/index.m3u8?hls",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS INFINITY HD (1080P)",
+        "url": "http://103.151.60.162:2122/play/a02r/index.m3u8?hls",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "JALSHA MOVIES HD (1080P)",
+        "url": "http://103.151.60.162:2122/play/a00x/index.m3u8?hls",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "MOVIES NOW HD (1080P)",
+        "url": "http://103.151.60.162:2122/play/a02w/index.m3u8?hls",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "BFLIX MOVIES (576P)",
+        "url": "http://103.151.60.162:2122/play/a01e/index.m3u8?hls",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "SONY ENTERTAINMENT TELEVISION (576P)",
+        "url": "http://103.151.60.162:2122/play/a015/index.m3u8?hls",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "STAR MOVIES HD (1080P)",
+        "url": "http://103.151.60.162:2122/play/a02k/index.m3u8?hls",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR MOVIES SELECT HD (1080P)",
+        "url": "http://103.151.60.162:2122/play/a02l/index.m3u8?hls",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "SONY ENTERTAINMENT TELEVISION (576P)",
+        "url": "http://103.151.60.162:2122/play/a01o/index.m3u8?hls",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "ZEE CINEMA HD (1080P)",
+        "url": "http://103.151.60.162:2122/play/a024/index.m3u8?hls",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "SONY MAX HD (1080P)",
+        "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD HD (1080P)",
+        "url": "http://103.151.60.162:2122/play/a01n/index.m3u8?hls",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 2 (576P)",
+        "url": "http://103.151.60.162:2122/play/a00v/index.m3u8?hls",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 1 (576P)",
+        "url": "http://103.151.60.162:2122/play/a01a/index.m3u8?hls",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 2 (576P)",
+        "url": "http://103.151.60.162:2122/play/a019/index.m3u8?hls",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 3 (576P)",
+        "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD 2 HD (1080P)",
+        "url": "http://103.151.60.162:2122/play/a01v/index.m3u8?hls",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS SELECT 1 HD (1080P)",
+        "url": "http://103.151.60.162:2122/play/a026/index.m3u8?hls",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS SELECT 2 HD (1080P)",
+        "url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "TEN CRICKET (576P)",
+        "url": "http://103.151.60.162:2122/play/a0fj/index.m3u8?hls",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "ZEE CINEMA HD (1080P)",
+        "url": "http://103.151.60.162:2122/play/a012/index.m3u8?hls",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "ZEE TV (576P)",
+        "url": "http://103.151.60.162:2122/play/a01u/index.m3u8?hls",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 1 (576P)",
+        "url": "http://103.151.60.162:2122/play/a01c/index.m3u8?hls",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 2 (576P)",
+        "url": "http://103.151.60.162:2122/play/a01b/index.m3u8?hls",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 3 HINDI (576P)",
+        "url": "http://103.151.60.162:2122/play/a01t/index.m3u8?hls",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 4 KANNADA (576P)",
+        "url": "http://103.151.60.162:2122/play/a021/index.m3u8?hls",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 5 (576P)",
+        "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls",
+        "category": "Sports",
         "status": "active"
     },
     {
