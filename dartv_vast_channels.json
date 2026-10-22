@@ -438,12 +438,6 @@
         "status": "active"
     },
     {
-        "name": "COLORS HD (1080P)",
-        "url": "http://66.102.126.10:8000/play/a00a/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "SONY MAX (576P) [GEO-BLOCKED]",
         "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0",
         "category": "Movies",
@@ -897,6 +891,18 @@
         "name": "SONY MAX 1",
         "url": "http://27.116.22.53:5001/live/3418.m3u8",
         "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "COLORS HD (1080P)",
+        "url": "http://103.135.253.32:8080/Color-HD/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "DD SPORTS HD (1080P)",
+        "url": "https://cdn.pishow.tv/ott/live/1161/master.m3u8",
+        "category": "Sports",
         "status": "active"
     },
     {
