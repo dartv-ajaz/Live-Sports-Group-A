@@ -432,12 +432,6 @@
         "status": "active"
     },
     {
-        "name": "SONY MAX (576P) [GEO-BLOCKED]",
-        "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "COLORS MARATHI HD (720P)",
         "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8",
         "category": "Indian Drama",
@@ -660,12 +654,6 @@
         "status": "active"
     },
     {
-        "name": "SONY MAX HD (1080P)",
-        "url": "http://103.185.24.134:3001/SonyMAX/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "SONY SPORTS TEN 1 HD (1080P)",
         "url": "http://103.185.24.134:3001/SonyTenSports1/index.m3u8",
         "category": "Sports",
@@ -843,12 +831,6 @@
         "name": "SONY SPORTS TEN 5 (576P)",
         "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls",
         "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "SONY MAX 1",
-        "url": "http://27.116.22.53:5001/live/3418.m3u8",
-        "category": "Movies",
         "status": "active"
     },
     {
