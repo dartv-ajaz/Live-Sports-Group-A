@@ -642,12 +642,6 @@
         "status": "active"
     },
     {
-        "name": "STAR MOVIES HD (1080P)",
-        "url": "http://103.185.24.134:3001/Star-Movies/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "STAR GOLD HD (1080P)",
         "url": "http://103.185.24.134:3001/Star-Gold/index.m3u8",
         "category": "Movies",
@@ -879,6 +873,24 @@
         "name": "PUTHIYA THALAIMURAI EXPRESS (720P)",
         "url": "https://samitaorigin.tangotv.in/PUTHIYAEXPRESS/SAMITAORIGIN/index.m3u8",
         "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "DD SPORTS (576P)",
+        "url": "https://mumt07.tangotv.in/zHjX9OFlDDSPORTS/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "TOTAL TV HARYANA (576P)",
+        "url": "https://mumt04.tangotv.in/m18aqlK4TOTALTV/index.m3u8",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "DANGAL 2 (576P)",
+        "url": "http://107.167.16.138/Dangal2/index.m3u8?token=test",
+        "category": "Indian Drama",
         "status": "active"
     },
     {
