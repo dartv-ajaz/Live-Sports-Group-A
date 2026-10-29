@@ -384,12 +384,6 @@
         "status": "active"
     },
     {
-        "name": "YET MAX (720P)",
-        "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "SHUBH CINEMA TV (576P)",
         "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
         "category": "Movies",
@@ -651,12 +645,6 @@
         "name": "SONY SPORTS TEN 1 HD (1080P)",
         "url": "http://103.185.24.134:3001/SonyTenSports1/index.m3u8",
         "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "JALSHA MOVIES HD (1080P)",
-        "url": "http://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8",
-        "category": "Movies",
         "status": "active"
     },
     {
