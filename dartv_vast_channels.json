@@ -684,12 +684,6 @@
         "status": "active"
     },
     {
-        "name": "JALSHA MOVIES HD (1080P)",
-        "url": "http://103.151.60.162:2122/play/a00x/index.m3u8?hls",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "MOVIES NOW HD (1080P)",
         "url": "http://103.151.60.162:2122/play/a02w/index.m3u8?hls",
         "category": "Movies",
