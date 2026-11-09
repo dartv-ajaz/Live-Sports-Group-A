@@ -600,12 +600,6 @@
         "status": "active"
     },
     {
-        "name": "STAR GOLD HD (1080P)",
-        "url": "http://103.185.24.134:3001/Star-Gold/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "STAR MAA MOVIES HD (720P)",
         "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8",
         "category": "Movies",
@@ -656,12 +650,6 @@
     {
         "name": "ZB CINEMA (1080P)",
         "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "ZEE CINEMA (576P)",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -794,36 +782,6 @@
     {
         "name": "JALSHA MOVIES (720P)",
         "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "ZEE CINEMA HD (1080P)",
-        "url": "https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR GOLD HD (1080P)",
-        "url": "https://livetv.shamon-cable.net:8443/StarGold/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR MOVIES HD (1080P)",
-        "url": "https://livetv.shamon-cable.net:8443/Star-Movies/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR MOVIES SELECT HD (1080P)",
-        "url": "https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR GOLD SELECT (1080P)",
-        "url": "https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
