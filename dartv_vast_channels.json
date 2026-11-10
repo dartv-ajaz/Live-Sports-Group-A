@@ -390,12 +390,6 @@
         "status": "active"
     },
     {
-        "name": "GOLDMINES (576P)",
-        "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "GOLDMINES 2 (576P)",
         "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
         "category": "Movies",
@@ -416,12 +410,6 @@
     {
         "name": "GOLDMINES BOLLYWOOD (576P)",
         "url": "https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "GOLDMINES BOLLYWOOD (576P)",
-        "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
