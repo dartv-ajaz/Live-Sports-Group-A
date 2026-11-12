@@ -666,27 +666,9 @@
         "status": "active"
     },
     {
-        "name": "MOVIES NOW + (1080P)",
-        "url": "http://103.135.253.32:8080/MN-PLUS/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "MOVIES NOW HD (1080P)",
-        "url": "http://103.135.253.32:8080/MOVIES-NOW/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "STAR BHARAT HD (1080P)",
         "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
         "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "STAR MOVIES HD (1080P)",
-        "url": "http://103.135.253.32:8080/STAR-MOVIES/index.m3u8",
-        "category": "Movies",
         "status": "active"
     },
     {
@@ -702,18 +684,6 @@
         "status": "active"
     },
     {
-        "name": "COLORS CINEPLEX HD (1080P)",
-        "url": "http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "STAR GOLD HD (1080P)",
-        "url": "http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "JALSHA MOVIES HD (1080P)",
         "url": "http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8",
         "category": "Movies",
@@ -726,26 +696,8 @@
         "status": "active"
     },
     {
-        "name": "ZEE CINEMA HD (1080P)",
-        "url": "http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "&PICTURES HD (1080P)",
-        "url": "http://103.135.253.32:8080/PICTURE-HD/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "B4U MOVIES (1080P)",
         "url": "http://103.135.253.32:8080/B4U-MOVIES/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "SONY MAX HD (1080P)",
-        "url": "http://103.135.253.32:8080/Sony-Max-HD/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -897,6 +849,54 @@
         "name": "R PLUS GOLD (1080P)",
         "url": "https://vglivessai.akamaized.net/ptnr-lg/title-Rplus_Gold/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/33172241-82f7-4c91-8ae8-4754309b66a0/index.m3u8",
         "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U MUSIC (1080P)",
+        "url": "https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "MOVIES NOW HD (576P)",
+        "url": "http://27.124.71.27/Movies_Now/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "SONY MAX 1 (720P)",
+        "url": "https://bdix.ottking.top:8082/Sony-Max-1/video.m3u8?token=Sami-TV",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "BHARAT EXPRESS (1080P)",
+        "url": "https://stream.ottlive.co.in/bharatexpress/index.m3u8",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "B4U KADAK (1080P)",
+        "url": "https://amg01408-amg01408c6-amgplt0747.playout.now3.amagi.tv/b4ua001/playlist.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "B4U MOVIES (1080P)",
+        "url": "https://amg01408-amg01408c7-amgplt0747.playout.now3.amagi.tv/b4umo001/playlist.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "TOTAL TV HARYANA (1080P)",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4836fb71b5764f70ab1f3815e0295dfd/index.m3u8",
+        "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "NEWS STATE PUNJAB HARYANA HIMACHAL (720P)",
+        "url": "https://prasarbharti-nn.vidgyor.com/nntv/nnpunj/index.m3u8",
+        "category": "Pakistani Drama",
         "status": "active"
     },
     {
