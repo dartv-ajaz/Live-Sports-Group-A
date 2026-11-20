@@ -1,5 +1,11 @@
 [
     {
+        "name": "&PICTURES HD (1080P)",
+        "url": "http://116.90.120.149:8000/play/a132/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "AARYAA TV (1080P)",
         "url": "https://stream.ottlive.co.in/aryatvtamil/index.m3u8",
         "category": "Pakistani Drama",
@@ -343,6 +349,12 @@
     },
     {
         "name": "COLORS HD (1080P)",
+        "url": "http://116.90.120.149:8000/play/a11y/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "COLORS HD (1080P)",
         "url": "https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8",
         "category": "Indian Drama",
         "status": "active"
@@ -678,6 +690,18 @@
         "status": "active"
     },
     {
+        "name": "MOVIES NOW + (1080P)",
+        "url": "http://116.90.120.149:8000/play/a11k/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "MOVIES NOW HD (1080P)",
+        "url": "http://116.90.120.149:8000/play/a11f/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "MOVIES NOW HD (576P)",
         "url": "http://27.124.71.27/Movies_Now/index.m3u8",
         "category": "Movies",
@@ -798,6 +822,24 @@
         "status": "active"
     },
     {
+        "name": "SONY ENTERTAINMENT TELEVISION HD (1080P)",
+        "url": "http://116.90.120.149:8000/play/a11u/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "SONY MAX (720P)",
+        "url": "https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "SONY MAX HD (1080P)",
+        "url": "http://116.90.120.149:8000/play/a123/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "SONY SPORTS TEN 3 HINDI (1080P)",
         "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8",
         "category": "Sports",
@@ -813,12 +855,6 @@
         "name": "STAR MAA MOVIES HD (720P)",
         "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8",
         "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 2 TELUGU HD (576P)",
-        "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
-        "category": "Sports",
         "status": "active"
     },
     {
