@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-11-21 02:57:34 AM",
+    "updated_at": "2026-11-21 08:13:46 AM",
     "channels": [
         {
             "id": "vip-1",
@@ -10,20 +10,41 @@
         },
         {
             "id": "vip-2",
+            "name": "Star Sports 1 HD (1080p)",
+            "logo": "https://i.imgur.com/E5jjKHI.png",
+            "url": "http://116.90.120.149:8000/play/a11x/index.m3u8",
+            "group": "VIP Cricket"
+        },
+        {
+            "id": "vip-3",
+            "name": "Star Sports 1 Hindi HD (1080p)",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png",
+            "url": "http://116.90.120.149:8000/play/a122/index.m3u8",
+            "group": "VIP Cricket"
+        },
+        {
+            "id": "vip-4",
+            "name": "Star Sports 2 HD (1080p)",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
+            "url": "http://116.90.120.149:8000/play/a120/index.m3u8",
+            "group": "VIP Cricket"
+        },
+        {
+            "id": "vip-5",
             "name": "Ten Sports Pakistan",
             "logo": "https://i.imgur.com/7qS6TcE.png",
             "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-3",
+            "id": "vip-6",
             "name": "Willow (720p)",
             "logo": "https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png",
             "url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
             "group": "VIP Cricket"
         },
         {
-            "id": "vip-4",
+            "id": "vip-7",
             "name": "Willow Sports (1080p)",
             "logo": "https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png",
             "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8",

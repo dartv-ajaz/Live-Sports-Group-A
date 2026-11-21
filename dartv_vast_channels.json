@@ -564,8 +564,20 @@
         "status": "active"
     },
     {
+        "name": "GOLDMINES 2 (576P)",
+        "url": "https://samitaorigin.tangotv.in/GOLDMINES2/SAMITAORIGIN/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "GOLDMINES ACTION (576P)",
         "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "GOLDMINES ACTION (576P)",
+        "url": "https://samitaorigin.tangotv.in/GOLDMINESACTION/SAMITAORIGIN/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -578,6 +590,12 @@
     {
         "name": "GOLDMINES BOLLYWOOD (576P)",
         "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "GOLDMINES BOLLYWOOD (576P)",
+        "url": "https://samitaorigin.tangotv.in/GOLDMINESBOLLYWOOD/SAMITAORIGIN/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -672,6 +690,12 @@
         "status": "active"
     },
     {
+        "name": "MAHAA MAX (576P)",
+        "url": "https://samitaorigin.tangotv.in/MAHAAMAX/SAMITAORIGIN/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "MANORANJAN MOVIES (576P)",
         "url": "http://163.61.226.31:9981/stream/channelid/509213855?profile=pass",
         "category": "Movies",
@@ -686,6 +710,12 @@
     {
         "name": "MH ONE MOVIES (576P)",
         "url": "https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "MH ONE MOVIES (576P)",
+        "url": "https://samitaorigin.tangotv.in/MHONEMOVIE/SAMITAORIGIN/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -793,6 +823,12 @@
     },
     {
         "name": "R PLUS GOLD (576P)",
+        "url": "https://samitaorigin.tangotv.in/RPLUSGOLD/SAMITAORIGIN/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "R PLUS GOLD (576P)",
         "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cf883da3-f9f5-4c70-b0ef-b3ac2e2ad1e3/index.m3u8",
         "category": "Movies",
         "status": "active"
@@ -806,6 +842,12 @@
     {
         "name": "SHUBH CINEMA TV (576P)",
         "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "SHUBH CINEMA TV (576P)",
+        "url": "https://samitaorigin.tangotv.in/SHUBHCINEMA/SAMITAORIGIN/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -840,8 +882,32 @@
         "status": "active"
     },
     {
+        "name": "SONY SPORTS TEN 1 (576P)",
+        "url": "http://116.90.120.149:8000/play/a126/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 1 HD (1080P)",
+        "url": "http://116.90.120.149:8000/play/a11t/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 2 HD (1080P)",
+        "url": "http://116.90.120.149:8000/play/a137/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
         "name": "SONY SPORTS TEN 3 HINDI (1080P)",
         "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "SONY SPORTS TEN 5 (576P)",
+        "url": "http://116.90.120.149:8000/play/a117/index.m3u8",
         "category": "Sports",
         "status": "active"
     },
@@ -852,9 +918,69 @@
         "status": "active"
     },
     {
+        "name": "STAR BHARAT HD (1080P)",
+        "url": "http://116.90.120.149:8000/play/a13b/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD 2 (576P)",
+        "url": "http://116.90.120.149:8000/play/a12b/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD HD (1080P)",
+        "url": "http://116.90.120.149:8000/play/a12a/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD ROMANCE (576P)",
+        "url": "http://116.90.120.149:8000/play/a12c/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR GOLD SELECT HD (1080P)",
+        "url": "http://116.90.120.149:8000/play/a131/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "STAR MAA MOVIES HD (720P)",
         "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8",
         "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR MOVIES HD (1080P)",
+        "url": "http://116.90.120.149:8000/play/a13a/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR MOVIES SELECT HD (1080P)",
+        "url": "http://116.90.120.149:8000/play/a139/index.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 1 HD (1080P)",
+        "url": "http://116.90.120.149:8000/play/a11x/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 1 HINDI HD (1080P)",
+        "url": "http://116.90.120.149:8000/play/a122/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "STAR SPORTS 2 HD (1080P)",
+        "url": "http://116.90.120.149:8000/play/a120/index.m3u8",
+        "category": "Sports",
         "status": "active"
     },
     {
@@ -885,6 +1011,24 @@
         "name": "TOTAL TV HARYANA (396P)",
         "url": "https://d1msejlow1t3l4.cloudfront.net/fta/totaltv/playlist.m3u8",
         "category": "Pakistani Drama",
+        "status": "active"
+    },
+    {
+        "name": "UNITE8 SPORTS 1 (576P)",
+        "url": "http://116.90.120.149:8000/play/a11l/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "UNITE8 SPORTS 1 HD (1080P)",
+        "url": "http://116.90.120.149:8000/play/a125/index.m3u8",
+        "category": "Sports",
+        "status": "active"
+    },
+    {
+        "name": "UNITE8 SPORTS 2 HD (1080P)",
+        "url": "http://116.90.120.149:8000/play/a129/index.m3u8",
+        "category": "Sports",
         "status": "active"
     },
     {
@@ -926,6 +1070,12 @@
     {
         "name": "ZEE TV HD (1080P)",
         "url": "http://103.135.253.32:8080/ZEE-TV/index.m3u8",
+        "category": "Indian Drama",
+        "status": "active"
+    },
+    {
+        "name": "ZEE TV HD (1080P)",
+        "url": "http://116.90.120.149:8000/play/a11v/index.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
