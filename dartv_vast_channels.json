@@ -1,11 +1,5 @@
 [
     {
-        "name": "&PICTURES HD (1080P)",
-        "url": "http://116.90.120.149:8000/play/a132/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "AARYAA TV (1080P)",
         "url": "https://stream.ottlive.co.in/aryatvtamil/index.m3u8",
         "category": "Pakistani Drama",
@@ -267,6 +261,12 @@
         "name": "BOLLYGOLD (1080P)",
         "url": "https://jmp2.uk/stvp-IN4000600Q",
         "category": "Movies",
+        "status": "active"
+    },
+    {
+        "name": "CALVARY TV (1080P)",
+        "url": "https://5dd3981940faa.streamlock.net/calvarytv/calvarytv/playlist.m3u8",
+        "category": "Pakistani Drama",
         "status": "active"
     },
     {
@@ -720,18 +720,6 @@
         "status": "active"
     },
     {
-        "name": "MOVIES NOW + (1080P)",
-        "url": "http://116.90.120.149:8000/play/a11k/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "MOVIES NOW HD (1080P)",
-        "url": "http://116.90.120.149:8000/play/a11f/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "MOVIES NOW HD (576P)",
         "url": "http://27.124.71.27/Movies_Now/index.m3u8",
         "category": "Movies",
@@ -876,38 +864,8 @@
         "status": "active"
     },
     {
-        "name": "SONY MAX HD (1080P)",
-        "url": "http://116.90.120.149:8000/play/a123/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "SONY SPORTS TEN 1 (576P)",
-        "url": "http://116.90.120.149:8000/play/a126/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "SONY SPORTS TEN 1 HD (1080P)",
-        "url": "http://116.90.120.149:8000/play/a11t/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "SONY SPORTS TEN 2 HD (1080P)",
-        "url": "http://116.90.120.149:8000/play/a137/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
         "name": "SONY SPORTS TEN 3 HINDI (1080P)",
         "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "SONY SPORTS TEN 5 (576P)",
-        "url": "http://116.90.120.149:8000/play/a117/index.m3u8",
         "category": "Sports",
         "status": "active"
     },
@@ -924,30 +882,6 @@
         "status": "active"
     },
     {
-        "name": "STAR GOLD 2 (576P)",
-        "url": "http://116.90.120.149:8000/play/a12b/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR GOLD HD (1080P)",
-        "url": "http://116.90.120.149:8000/play/a12a/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR GOLD ROMANCE (576P)",
-        "url": "http://116.90.120.149:8000/play/a12c/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR GOLD SELECT HD (1080P)",
-        "url": "http://116.90.120.149:8000/play/a131/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "STAR MAA MOVIES HD (720P)",
         "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8",
         "category": "Movies",
@@ -957,30 +891,6 @@
         "name": "STAR MOVIES HD (1080P)",
         "url": "http://116.90.120.149:8000/play/a13a/index.m3u8",
         "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR MOVIES SELECT HD (1080P)",
-        "url": "http://116.90.120.149:8000/play/a139/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 1 HD (1080P)",
-        "url": "http://116.90.120.149:8000/play/a11x/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 1 HINDI HD (1080P)",
-        "url": "http://116.90.120.149:8000/play/a122/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "STAR SPORTS 2 HD (1080P)",
-        "url": "http://116.90.120.149:8000/play/a120/index.m3u8",
-        "category": "Sports",
         "status": "active"
     },
     {
@@ -1011,24 +921,6 @@
         "name": "TOTAL TV HARYANA (396P)",
         "url": "https://d1msejlow1t3l4.cloudfront.net/fta/totaltv/playlist.m3u8",
         "category": "Pakistani Drama",
-        "status": "active"
-    },
-    {
-        "name": "UNITE8 SPORTS 1 (576P)",
-        "url": "http://116.90.120.149:8000/play/a11l/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "UNITE8 SPORTS 1 HD (1080P)",
-        "url": "http://116.90.120.149:8000/play/a125/index.m3u8",
-        "category": "Sports",
-        "status": "active"
-    },
-    {
-        "name": "UNITE8 SPORTS 2 HD (1080P)",
-        "url": "http://116.90.120.149:8000/play/a129/index.m3u8",
-        "category": "Sports",
         "status": "active"
     },
     {
