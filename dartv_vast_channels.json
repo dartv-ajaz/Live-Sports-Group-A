@@ -145,12 +145,6 @@
     },
     {
         "name": "B4U MUSIC (1080P)",
-        "url": "https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "B4U MUSIC (1080P)",
         "url": "https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8",
         "category": "Movies",
         "status": "active"
@@ -288,36 +282,6 @@
         "status": "active"
     },
     {
-        "name": "COLORS BANGLA CINEMA (576P)",
-        "url": "http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS BANGLA CINEMA (576P)",
-        "url": "https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS BANGLA HD (1080P)",
-        "url": "http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS BANGLA HD (1080P)",
-        "url": "http://103.165.93.31:8095/colorsBangla/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS BANGLA HD (1080P)",
-        "url": "https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "COLORS CINEPLEX (576P)",
         "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8",
         "category": "Indian Drama",
@@ -338,24 +302,6 @@
     {
         "name": "COLORS GUJARATI (396P)",
         "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS HD (1080P)",
-        "url": "http://103.135.253.32:8080/Color-HD/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS HD (1080P)",
-        "url": "http://116.90.120.149:8000/play/a11y/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "COLORS HD (1080P)",
-        "url": "https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8",
         "category": "Indian Drama",
         "status": "active"
     },
@@ -648,12 +594,6 @@
         "status": "active"
     },
     {
-        "name": "JALSHA MOVIES (720P)",
-        "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
         "name": "KHUSHBOO BANGLA (576P)",
         "url": "https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8",
         "category": "Movies",
@@ -852,12 +792,6 @@
         "status": "active"
     },
     {
-        "name": "SONY ENTERTAINMENT TELEVISION HD (1080P)",
-        "url": "http://116.90.120.149:8000/play/a11u/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "SONY MAX (720P)",
         "url": "https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8",
         "category": "Movies",
@@ -870,26 +804,8 @@
         "status": "active"
     },
     {
-        "name": "STAR BHARAT HD (1080P)",
-        "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "STAR BHARAT HD (1080P)",
-        "url": "http://116.90.120.149:8000/play/a13b/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
         "name": "STAR MAA MOVIES HD (720P)",
         "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8",
-        "category": "Movies",
-        "status": "active"
-    },
-    {
-        "name": "STAR MOVIES HD (1080P)",
-        "url": "http://116.90.120.149:8000/play/a13a/index.m3u8",
         "category": "Movies",
         "status": "active"
     },
@@ -957,24 +873,6 @@
         "name": "ZEE PUNJAB HARYANA HIMACHAL (720P)",
         "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8",
         "category": "Pakistani Drama",
-        "status": "active"
-    },
-    {
-        "name": "ZEE TV HD (1080P)",
-        "url": "http://103.135.253.32:8080/ZEE-TV/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "ZEE TV HD (1080P)",
-        "url": "http://116.90.120.149:8000/play/a11v/index.m3u8",
-        "category": "Indian Drama",
-        "status": "active"
-    },
-    {
-        "name": "ZEE TV HD (720P) [GEO-BLOCKED]",
-        "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
-        "category": "Indian Drama",
         "status": "active"
     },
     {
