@@ -840,14 +840,20 @@
         "status": "active"
     },
     {
+        "name": "UTV HD 24X7 (1080I)",
+        "url": "https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8",
+        "category": "Movies",
+        "status": "active"
+    },
+    {
         "name": "UTV PALAKKAD (1080P)",
         "url": "https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8",
         "category": "Movies",
         "status": "active"
     },
     {
-        "name": "UTV PALAKKAD (1080P)",
-        "url": "https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8",
+        "name": "WAYANAD VISION MOVIES (720P)",
+        "url": "https://online.wayanadvision.in/hls/wvmovies.m3u8",
         "category": "Movies",
         "status": "active"
     },
